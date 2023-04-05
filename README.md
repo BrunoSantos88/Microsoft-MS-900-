@@ -22,3 +22,5 @@ Licenças office: </p>
 Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
+
+--Divisão de responsabilidade
