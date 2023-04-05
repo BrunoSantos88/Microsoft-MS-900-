@@ -24,3 +24,7 @@ Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?
 <img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
 
 --Divisão de responsabilidade
+
+Link https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230213319-22983930-3121-43c2-ada7-69a3e0ada4cf.png" alt="IAASAASPAAS">
