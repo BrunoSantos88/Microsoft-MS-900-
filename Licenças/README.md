@@ -1,31 +1,11 @@
 # Microsoft-MS-900
-Guia Pratico e Teorico dos produtos Microsoft 365
+Licenças
 
+-Uma licença ou licença básica permite que os usuários usem os recursos e serviços incluídos no plano de assinatura. Ao comprar uma assinatura, você especifica o número de licenças de que precisa, com base no número de pessoas que possui em sua organização. Depois de comprar uma assinatura, você cria contas para pessoas em sua organização e atribui uma licença a cada pessoa. À medida que suas necessidades organizacionais mudam, você pode comprar mais licenças para acomodar novas pessoas ou reatribuir licenças a outros usuários quando alguém deixar sua organização.
 
-PLanos Empresa basicos MS 365
-Planos resume por licenças ou recursos.
+Os produtos e serviços do Microsoft 365 estão disponíveis como licenças de assinatura de usuário (USLs) e são licenciados por usuário. Cada usuário que acessa os produtos e serviços do Microsoft 365 deve receber uma USL. Os administradores gerenciam licenças no centro de administração do Microsoft 365 . Eles podem atribuir as licenças a usuários individuais ou contas de convidados. A lista a seguir descreve as opções disponíveis:
 
-Licenças empresa: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/229573637-3f20eb91-2aad-4fc4-a551-82f3f1c1079e.png" width="1000px" align="centter" alt="planos">
-
-
-- As diferenças entre o Office 365 e o Microsoft 365
-O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, Excel, PowerPoint e Outlook, além de serviços como Microsoft Exchange, SharePoint, Teams e OneDrive. O Microsoft 365 é um serviço baseado em nuvem que inclui os mesmos aplicativos e serviços do Office, além do Windows 10 e Enterprise Mobility + Security.
-
-- Enterprise Mobility + Security (EMS) é uma plataforma de gerenciamento e segurança de mobilidade que inclui serviços como Azure Active Directory (Azure AD), Microsoft Intune, Azure Information Protection e Microsoft Advanced Threat Analytics. O Azure AD é um serviço de gerenciamento de acesso e identidade baseado em nuvem. Esse serviço do Azure ajuda seus funcionários a acessar recursos externos, como o Microsoft 365, e gerencia as identidades dos usuários nos bastidores.
-
-- Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
-
-Licenças office: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
-
---Divisão de responsabilidade
-
-Link https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility </p>
-link https://learn.microsoft.com/pt-br/training/modules/fundamental-azure-concepts/categories-of-cloud-services
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230213319-22983930-3121-43c2-ada7-69a3e0ada4cf.png" alt="IAASAASPAAS" width="1000px" align="centter" alt="planos">
+As USLs completas destinam-se a novos clientes que ainda não adquiriram produtos e serviços da Microsoft.
+USLs complementares são para clientes de software local que desejam adicionar produtos e serviços de nuvem do Microsoft 365.
+As USLs da SA são para clientes locais do Software Assurance que desejam fazer a transição para a nuvem.
+USLs Step Up são para clientes que desejam atualizar o nível de seu serviço.
