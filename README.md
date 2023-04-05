@@ -18,7 +18,7 @@ O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, E
 
 - Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
 
-Licenças pessoas: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
+Licenças office: </p>
+Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
