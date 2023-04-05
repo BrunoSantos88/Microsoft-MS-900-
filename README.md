@@ -43,7 +43,7 @@ E ajuda online	Encontre respostas precisas para perguntas sobre tecnologias da M
 
 -Suporte para pré-vendas	Sua organização é fornecida com assistência sobre recursos de assinatura, benefícios e sua decisão de compra para serviços do Microsoft 365.
 
-- FastTrack	
+-FastTrack	
 O FastTrack é um serviço fornecido pela Microsoft que ajuda os clientes a integrar soluções do Microsoft Cloud e impulsionar a adoção do usuário. Clientes com assinaturas qualificadas para Microsoft 365, Azure ou Dynamics 365 podem usar o FastTrack sem custo adicional para a vida útil de sua assinatura.
 
 -Suporte unificado da Microsoft	
