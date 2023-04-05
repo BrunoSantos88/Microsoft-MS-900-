@@ -53,3 +53,6 @@ As USLs completas destinam-se a novos clientes que ainda não adquiriram produto
 USLs complementares são para clientes de software local que desejam adicionar produtos e serviços de nuvem do Microsoft 365.
 As USLs da SA são para clientes locais do Software Assurance que desejam fazer a transição para a nuvem.
 USLs Step Up são para clientes que desejam atualizar o nível de seu serviço.
+
+LINk: https://learn.microsoft.com/pt-br/training/modules/identify-licensing-options-available-microsoft-365/4-license-management-options
+LINK:https://learn.microsoft.com/pt-br/training/modules/identify-licensing-options-available-microsoft-365/4-license-management-options
