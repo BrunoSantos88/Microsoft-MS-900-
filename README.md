@@ -26,5 +26,6 @@ Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?
 --Divisão de responsabilidade
 
 Link https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility
+link https://learn.microsoft.com/pt-br/training/modules/fundamental-azure-concepts/categories-of-cloud-services
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230213319-22983930-3121-43c2-ada7-69a3e0ada4cf.png" alt="IAASAASPAAS" width="1000px" align="centter" alt="planos">
