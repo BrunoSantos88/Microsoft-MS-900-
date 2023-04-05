@@ -16,3 +16,15 @@ Porcentagem de tempo de atividade mensal	Crédito de serviço
 <99,9%	25%
 <99%	50%
 <95%	100%
+
+Para saber como e quando solicitar um crédito da Microsoft, visite Solicitar um crédito da Microsoft.
+
+Sua organização sempre deve revisar todos os Contratos de Nível de Serviço e fazer perguntas, incluindo as seguintes:
+
+Se você estiver usando um Provedor de Serviços de Nuvem, como eles determinam os níveis de serviço e se eles são alcançados ou não?
+Quem é responsável pelos relatórios? Como sua organização pode acessar relatórios?
+Há exceções no contrato?
+O que o contrato diz sobre manutenção inesperada e agendada?
+O que diz o contrato sobre o que acontece se a sua infraestrutura ficar inacessível devido a um ataque? E quanto a desastres naturais e outras situações fora do seu controle?
+O contrato abrange falhas do sistema ou que não sejam da Microsoft?
+Quais são os limites de responsabilidade do Provedor de Serviços de Nuvem no contrato?
