@@ -53,3 +53,5 @@ O suporte unificado da Microsoft é um serviço que fornece suporte abrangente e
 Sua organização pode obter suporte diretamente por meio de um parceiro certificado do Microsoft 365. Por exemplo, se sua organização adquiriu uma assinatura Microsoft 365 através de um fornecedor de serviços em nuvem (CSP), eles receberão suporte direto do CSP. O CSP atuará como a primeira linha de apoio para todas as questões e aumentará os problemas para a Microsoft se eles não forem capazes de resolvê-los.
 
 Outras opções de suporte	Sua organização pode instalar o Assistente de Recuperação e Suporte da Microsoft para ajudar a identificar problemas executando testes e oferecer a melhor solução para esses problemas. No momento ele pode corrigir problemas do Office, Microsoft 365 ou do Outlook. Business Assist para Microsoft 365 está disponível para pequenas empresas oferecerem a você e seus funcionários suporte 24 horas por dia e acesso a especialistas em pequenas empresas à medida que você cresce sua empresa, da integração ao uso diário.
+
+Link: https://learn.microsoft.com/pt-br/training/modules/describe-support-offerings-for-microsoft-365-services/2-explore-support-options
