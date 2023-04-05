@@ -31,6 +31,7 @@ link https://learn.microsoft.com/pt-br/training/modules/fundamental-azure-concep
 <img src="https://user-images.githubusercontent.com/91704169/230213319-22983930-3121-43c2-ada7-69a3e0ada4cf.png" alt="IAASAASPAAS" width="1000px" align="centter" alt="planos">
 
 -Tipo de suporte
+
 Suporte baseado na comunidade	Sua organização pode aproveitar o suporte baseado na comunidade por meio do Microsoft 365 Tech Community ou do Microsoft 365 e do Office – Microsoft Community. 
 Você pode colaborar com outras pessoas, fazer perguntas e resolver problemas e problemas com membros da Microsoft e da comunidade.
 
