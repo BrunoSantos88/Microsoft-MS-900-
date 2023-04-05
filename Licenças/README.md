@@ -1,31 +1,49 @@
 # Microsoft-MS-900
-Guia Pratico e Teorico dos produtos Microsoft 365
+Licenças
+
+-Uma licença ou licença básica permite que os usuários usem os recursos e serviços incluídos no plano de assinatura. Ao comprar uma assinatura, você especifica o número de licenças de que precisa, com base no número de pessoas que possui em sua organização. Depois de comprar uma assinatura, você cria contas para pessoas em sua organização e atribui uma licença a cada pessoa. À medida que suas necessidades organizacionais mudam, você pode comprar mais licenças para acomodar novas pessoas ou reatribuir licenças a outros usuários quando alguém deixar sua organização.
+
+Os produtos e serviços do Microsoft 365 estão disponíveis como licenças de assinatura de usuário (USLs) e são licenciados por usuário. Cada usuário que acessa os produtos e serviços do Microsoft 365 deve receber uma USL. Os administradores gerenciam licenças no centro de administração do Microsoft 365 . Eles podem atribuir as licenças a usuários individuais ou contas de convidados. A lista a seguir descreve as opções disponíveis:
+
+As USLs completas destinam-se a novos clientes que ainda não adquiriram produtos e serviços da Microsoft.
+USLs complementares são para clientes de software local que desejam adicionar produtos e serviços de nuvem do Microsoft 365.
+As USLs da SA são para clientes locais do Software Assurance que desejam fazer a transição para a nuvem.
+USLs Step Up são para clientes que desejam atualizar o nível de seu serviço.]
+
+-O que é um direito de licença
+Um direito de licença representa seu direito de instalar e usar produtos de software, conforme detalhado no contrato de licença.
+
+Qual é a quantidade efetiva
+A Quantidade Efetiva é o número de direitos de licença por produto e versão com atualizações. Ele pode ser usado para determinar se sua organização tem deficiências de licença ou excedentes por produto e versão.
+
+O que é a quantidade de SA ativa (Software Assurance)
+A Quantidade de SA Ativa é exibida no Resumo da Licença. Ele representa o número de licenças cobertas pelo Software Assurance (proteção de atualização de versão) em todos os programas de Licença por Volume da Microsoft. A Quantidade de SA Ativa inclui todos os tipos de Software Assurance, incluindo:
+
+O Resumo da Licença exibe o software implantado
+Não. Não é possível que a Microsoft forneça uma lista de detalhes de implantação do produto no Resumo da Licença. O Resumo da Licença mostra o software que sua organização tem o direito de instalar e usar, mas não o que está implantado no momento.
+
+O que é um pool de licenças
+Um Pool de Licenças agrupa licenças por tipo de produto. O Licenciamento por Volume da Microsoft organiza produtos em três pools:
+
+Aplicativos (por exemplo, edições do Office)
+Sistemas (por exemplo, versões do sistema operacional Windows)
+Servidores (por exemplo, Exchange Server, SQL Server e Windows Server)
+O que é uma concessão de licença
+Ocasionalmente, o Licenciamento por Volume da Microsoft oferece uma promoção em que a compra de um produto específico dá direito ao cliente ao uso de outro produto. As promoções normalmente são condicionais na cobertura ativa do Software Assurance ou do Upgrade Advantage no produto comprado. Por exemplo:
+
+Um cliente compra 1 licença para Exchange Server 2016.
+A transação tem cobertura ativa de Software Assurance ou Upgrade Advantage durante a oferta
+A Microsoft oferece uma promoção para 1 licença de Skype for Business Server com uma compra de Exchange Server 2016.
+A Concessão de Licença é o que dá direito, ou "concessões", ao cliente de usar o produto promocional. Nesse caso, o cliente receberá o uso de Skype for Business Server.
+
+Para obter mais informações sobre concessões de licença, consulte os documentos pur (direitos de uso do produto) de licenciamento por volume da Microsoft abertos em uma nova janela e documentos de lista de preços.
+
+Como posso ver minhas concessões de licença
+As concessões de licença são refletidas no Resumo da Relação, no Resumo da Licença e nos Downloads do Produto. No Resumo da Relação e Resumo da Licença, os produtos resultantes de Concessões de Licença são mostrados com um asterisco (*) para indicar que eles não foram comprados diretamente.
+
+Quem faço para entrar em contato se eu tiver dúvidas sobre meu Resumo de Licença
+Entre em contato com seu Parceiro da Microsoft ou com o Gerenciador de Contas da Microsoft com perguntas sobre o Resumo da Licença.
 
 
-PLanos Empresa basicos MS 365
-Planos resume por licenças ou recursos.
-
-Licenças empresa: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/229573637-3f20eb91-2aad-4fc4-a551-82f3f1c1079e.png" width="1000px" align="centter" alt="planos">
-
-
-- As diferenças entre o Office 365 e o Microsoft 365
-O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, Excel, PowerPoint e Outlook, além de serviços como Microsoft Exchange, SharePoint, Teams e OneDrive. O Microsoft 365 é um serviço baseado em nuvem que inclui os mesmos aplicativos e serviços do Office, além do Windows 10 e Enterprise Mobility + Security.
-
-- Enterprise Mobility + Security (EMS) é uma plataforma de gerenciamento e segurança de mobilidade que inclui serviços como Azure Active Directory (Azure AD), Microsoft Intune, Azure Information Protection e Microsoft Advanced Threat Analytics. O Azure AD é um serviço de gerenciamento de acesso e identidade baseado em nuvem. Esse serviço do Azure ajuda seus funcionários a acessar recursos externos, como o Microsoft 365, e gerencia as identidades dos usuários nos bastidores.
-
-- Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
-
-Licenças office: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
-
---Divisão de responsabilidade
-
-Link https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility </p>
-link https://learn.microsoft.com/pt-br/training/modules/fundamental-azure-concepts/categories-of-cloud-services
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230213319-22983930-3121-43c2-ada7-69a3e0ada4cf.png" alt="IAASAASPAAS" width="1000px" align="centter" alt="planos">
+LINk: https://learn.microsoft.com/pt-br/training/modules/identify-licensing-options-available-microsoft-365/4-license-management-options
+LINK:https://learn.microsoft.com/pt-br/training/modules/identify-licensing-options-available-microsoft-365/4-license-management-options
