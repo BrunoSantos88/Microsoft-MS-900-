@@ -17,14 +17,29 @@ Porcentagem de tempo de atividade mensal	Crédito de serviço
 <99%	50%
 <95%	100%
 
-Para saber como e quando solicitar um crédito da Microsoft, visite Solicitar um crédito da Microsoft.
+-Para saber como e quando solicitar um crédito da Microsoft, visite Solicitar um crédito da Microsoft.
 
-Sua organização sempre deve revisar todos os Contratos de Nível de Serviço e fazer perguntas, incluindo as seguintes:
+Como e quando solicitar um crédito da Microsoft
 
-Se você estiver usando um Provedor de Serviços de Nuvem, como eles determinam os níveis de serviço e se eles são alcançados ou não?
-Quem é responsável pelos relatórios? Como sua organização pode acessar relatórios?
-Há exceções no contrato?
-O que o contrato diz sobre manutenção inesperada e agendada?
-O que diz o contrato sobre o que acontece se a sua infraestrutura ficar inacessível devido a um ataque? E quanto a desastres naturais e outras situações fora do seu controle?
-O contrato abrange falhas do sistema ou que não sejam da Microsoft?
-Quais são os limites de responsabilidade do Provedor de Serviços de Nuvem no contrato?
+As solicitações de crédito são aceitas somente de provedores CSP diretos e indiretos. Não são aceitas solicitações de revendedores indiretos.
+
+-A criação de uma solicitação de serviço para um cliente no Microsoft Azure é um processo separado.
+-Baixe e preencha o Formulário de solicitação de crédito ou reembolso. (Selecionar o link anterior baixa o formulário diretamente para sua pasta de download padrão.)
+-Entre no Partner Center, selecione o ícone Ajuda + suporte (?).
+-Selecione Nova solicitação.
+-Selecione Procurar tópicos e Categoria = CSP, Tópico = Cobrança e faturamento e Subtópico = Solicitações de crédito e reembolsos.
+-Na página Soluções recomendadas, em Você precisa de mais ajuda? selecione Sim.
+-Na página Detalhes, preencha a seção Detalhes do problema.
+-Na caixa de texto Detalhes, não deixe de inserir as informações necessárias descritas no formulário de Solicitação de Crédito ou no Formulário de Reembolso.
+-Selecione Enviar.
+
+Tipos de créditos
+Crédito de aquisição acidental
+Para solicitações de crédito de ofertas herdadas do Microsoft 365 ou Microsoft Dynamics 365 (por exemplo, quando o número de licenças foi aumentado acidentalmente ou se foi comprado o produto errado):
+
+Cancelamentos de assinaturas nos primeiros 30 dias após a compra são reembolsadas em 100%, sem a necessidade de gerar uma solicitação de serviço. O crédito aparece na fatura/arquivo de reconciliação emitido após a suspensão da assinatura.
+
+Se você suspender uma assinatura no prazo de 2 a 12 meses, você será creditado em uma base rateada. Para receber um reembolso completo do início da assinatura, uma solicitação deve ser enviada dentro de 90 dias após a compra, exceto:
+
+Todos os SKUs do Microsoft Power BI Premium: deve ser enviada uma solicitação no prazo de sete dias para reembolso de 100%. Após sete dias, os custos fixos no valor de USD 33,00 por dia, independentemente do número de licenças, serão deduzidos do crédito.
+Microsoft 365 A1: o crédito integral será fornecido somente se a solicitação for enviada no prazo de 30 dias a partir da compra e nenhum usuário for atribuído à assinatura. Nenhum reembolso é emitido após 30 dias da compra.
