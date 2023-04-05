@@ -10,3 +10,9 @@ Concluído
 Além do Contrato de Nível de Serviço do Microsoft Online, sua organização também pode aproveitar o Contrato de Nível de Serviço com seu Provedor de Serviços de Nuvem. As garantias de serviços fornecidos para os serviços do Microsoft 365 variam entre provedores de serviços de nuvem.
 
 O Contrato de Nível de Serviço dos Microsoft Online Services apresenta vários conceitos:
+
+
+Porcentagem de tempo de atividade mensal	Crédito de serviço
+<99,9%	25%
+<99%	50%
+<95%	100%
