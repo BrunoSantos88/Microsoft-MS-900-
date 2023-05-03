@@ -1,58 +1,31 @@
-# Microsoft-MS-900
-Guia Pratico e Teorico dos produtos Microsoft 365
+# Microsoft Purview
+
+Portal de conformidade do Microsoft Purview
+
+Você está procurando uma maneira de começar rapidamente com as tarefas de conformidade no Microsoft Purview? Confira o catálogo de soluções Microsoft Purview para descobrir, aprender e começar rapidamente com soluções de risco e conformidade.
+
+As soluções de risco e conformidade no Microsoft Purview são coleções de recursos integrados que você pode usar para ajudá-lo a gerenciar cenários de conformidade de ponta a ponta. Os recursos e as ferramentas de uma solução podem incluir uma combinação de políticas, alertas, relatórios e muito mais.
+
+- Se você não for um cliente E5, use a avaliação de 90 dias das soluções Microsoft Purview para explorar como os recursos adicionais do Purview podem ajudar sua organização a gerenciar as necessidades de conformidade e segurança de dados. Comece agora no hub de testes do portal de conformidade do Microsoft Purview . Saiba detalhes sobre como se inscrever e os termos de avaliação .
+
+- Governança de aplicativos : ajuda você a entender todos os aplicativos que se conectam à sua organização e controlam suas atividades de API.
+Gerenciamento do ciclo de vida dos dados : gerencia o ciclo de vida do conteúdo usando soluções para importar, armazenar e classificar dados críticos para os negócios, para que você possa manter o que precisa e excluir o que não precisa.
+- Prevenção contra perda de dados : detecta conteúdo confidencial à medida que é usado e compartilhado em toda a organização, na nuvem e em dispositivos, e ajuda a evitar a perda acidental de dados.
+- Proteção de informações : descobre, classifica e protege conteúdo confidencial e crítico para os negócios em todo o seu ciclo de vida em sua organização.
+Gerenciamento de registros : usa classificação inteligente para automatizar e simplificar o cronograma de retenção de registros regulatórios, jurídicos e críticos para os negócios em sua organização.
+
+- Gerenciamento de privacidade : gera insights acionáveis sobre dados pessoais da empresa para ajudá-lo a identificar problemas e reduzir riscos. Fornece modelos de política fáceis de usar que capacitam os funcionários a proteger os dados e recursos de automação para um processo de solicitação de direitos de titular mais tranquilo.
 
 
-PLanos Empresa basicos MS 365
-Planos resume por licenças ou recursos.
+- Auditoria : registra as atividades de usuários e administradores de sua organização para que você possa pesquisar o log de auditoria e investigar uma lista abrangente de atividades em todos os locais e serviços.
+Solicitações de titulares de dados : Localiza e exporta os dados pessoais de um usuário para ajudá-lo a responder às solicitações de titulares de dados para GDPR.
+- eDiscovery
+- eDiscovery (padrão) : pesquisa em locais de conteúdo para identificar, preservar e exportar dados em resposta a solicitações de descoberta legal e casos de - eDiscovery.
+- eDiscovery (Premium) : baseia-se nos recursos de eDiscovery, fornecendo análises inteligentes e aprendizado de máquina para ajudá-lo a analisar melhor os dados relevantes para as solicitações de descoberta.
 
-Licenças empresa: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/229573637-3f20eb91-2aad-4fc4-a551-82f3f1c1079e.png" width="1000px" align="centter" alt="planos">
+- Visite Microsoft Purview Compliance Manager , que ajuda você a entender o estado de conformidade da sua organização com os principais padrões e regulamentações. Ele fornece ações recomendadas que você pode executar para fortalecer sua postura geral de conformidade e fornece recursos de fluxo de trabalho para ajudá-lo a executar essas ações com eficiência. Para saber mais, consulte Gerente de Conformidade .
 
+- Configure políticas de gerenciamento de riscos internos para ajudar a minimizar os riscos internos e permitir que você detecte, investigue e tome medidas para atividades de risco em sua organização. Consulte Saiba mais sobre o gerenciamento de riscos internos .
 
-- As diferenças entre o Office 365 e o Microsoft 365
-O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, Excel, PowerPoint e Outlook, além de serviços como Microsoft Exchange, SharePoint, Teams e OneDrive. O Microsoft 365 é um serviço baseado em nuvem que inclui os mesmos aplicativos e serviços do Office, além do Windows 10 e Enterprise Mobility + Security.
+- Microsoft Purview Information Protection , saiba como as soluções Microsoft Purview ajudam você a descobrir, classificar e proteger informações confidenciais onde quer que estejam ou viajem.
 
-- Enterprise Mobility + Security (EMS) é uma plataforma de gerenciamento e segurança de mobilidade que inclui serviços como Azure Active Directory (Azure AD), Microsoft Intune, Azure Information Protection e Microsoft Advanced Threat Analytics. O Azure AD é um serviço de gerenciamento de acesso e identidade baseado em nuvem. Esse serviço do Azure ajuda seus funcionários a acessar recursos externos, como o Microsoft 365, e gerencia as identidades dos usuários nos bastidores.
-
-- Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
-
-Licenças office: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
-
---Divisão de responsabilidade
-
-Link https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility </p>
-link https://learn.microsoft.com/pt-br/training/modules/fundamental-azure-concepts/categories-of-cloud-services
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230213319-22983930-3121-43c2-ada7-69a3e0ada4cf.png" alt="IAASAASPAAS" width="1000px" align="centter" alt="planos">
-
--Tipo de suporte
-
-Suporte baseado na comunidade	Sua organização pode aproveitar o suporte baseado na comunidade por meio do Microsoft 365 Tech Community ou do Microsoft 365 e do Office – Microsoft Community. 
-Você pode colaborar com outras pessoas, fazer perguntas e resolver problemas e problemas com membros da Microsoft e da comunidade.
-
--Autoajuda	Sua organização pode receber ajuda por meio do Centro de administração do Microsoft 365 usando o botão "Suporte à ajuda&" ou navegando até Contact – Suporte da Microsoft. Faça uma pergunta e exiba os resultados. Se as instruções ou artigos recomendados não responderem à sua pergunta, você poderá entrar em contato com o suporte técnico.
-
--Web chat, email e suporte por telefone	Sua organização pode enviar problemas ao suporte da Microsoft para suporte técnico, de cobrança e de assinatura por email, web chat ou telefone. Para entrar em contato com o suporte, consulte Contact Us – Suporte da Microsoft.
-
--Q&A fóruns 
-E ajuda online	Encontre respostas precisas para perguntas sobre tecnologias da Microsoft por meio do Microsoft Q&A, Todas as Perguntas – Microsoft Q&A. Você também pode encontrar informações e respostas para perguntas por meio de ajuda online, como o Microsoft 365 help & learning ou o Microsoft Learn.
-
--Suporte para pré-vendas	Sua organização é fornecida com assistência sobre recursos de assinatura, benefícios e sua decisão de compra para serviços do Microsoft 365.
-
--FastTrack	
-O FastTrack é um serviço fornecido pela Microsoft que ajuda os clientes a integrar soluções do Microsoft Cloud e impulsionar a adoção do usuário. Clientes com assinaturas qualificadas para Microsoft 365, Azure ou Dynamics 365 podem usar o FastTrack sem custo adicional para a vida útil de sua assinatura.
-
--Suporte unificado da Microsoft	
-O suporte unificado da Microsoft é um serviço que fornece suporte abrangente em toda a sua organização por meio de suporte técnico 24 horas por dia, 7 dias por semana, um Gerenciador de Contas de Sucesso do Cliente atribuído, suporte consultivo, assistência na nuvem, treinamento técnico e muito mais.
-
--Suporte por meio de um parceiro da Microsoft	
-Sua organização pode obter suporte diretamente por meio de um parceiro certificado do Microsoft 365. Por exemplo, se sua organização adquiriu uma assinatura Microsoft 365 através de um fornecedor de serviços em nuvem (CSP), eles receberão suporte direto do CSP. O CSP atuará como a primeira linha de apoio para todas as questões e aumentará os problemas para a Microsoft se eles não forem capazes de resolvê-los.
-
-Outras opções de suporte	Sua organização pode instalar o Assistente de Recuperação e Suporte da Microsoft para ajudar a identificar problemas executando testes e oferecer a melhor solução para esses problemas. No momento ele pode corrigir problemas do Office, Microsoft 365 ou do Outlook. Business Assist para Microsoft 365 está disponível para pequenas empresas oferecerem a você e seus funcionários suporte 24 horas por dia e acesso a especialistas em pequenas empresas à medida que você cresce sua empresa, da integração ao uso diário.
-
-Link: https://learn.microsoft.com/pt-br/training/modules/describe-support-offerings-for-microsoft-365-services/2-explore-support-options
