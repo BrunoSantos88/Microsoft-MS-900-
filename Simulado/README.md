@@ -1,4 +1,4 @@
-# Guia MS 900
+# Guia da Prova MS-900
 
 - Os candidatos devem ser capazes de recomendar soluções do Microsoft 365 que resolvam desafios comuns de TI organizacional. Eles devem entender como as soluções do Microsoft 365 aprimoram a produtividade, facilitam a colaboração e otimizam a comunicação. Eles também devem entender como as soluções do Microsoft 365 ajudam a proteger dados e identidades e facilitam a conformidade.
 
