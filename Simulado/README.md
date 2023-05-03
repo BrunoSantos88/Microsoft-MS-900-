@@ -26,7 +26,8 @@ Link: https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced
 # Pergunta 2
 
 Uma empresa usa o Microsoft 365.
-- A empresa precisa mitigar os ataques de segurança aos dados dentro dos caches da RAM ou da CPU.
+
+A empresa precisa mitigar os ataques de segurança aos dados dentro dos caches da RAM ou da CPU.
 Você precisa recomendar uma solução.
 
 Qual solução você deve recomendar?
