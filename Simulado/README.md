@@ -37,3 +37,31 @@ R: Enclaves
 - Os enclaves são partes seguras do processador e memória do hardware. Não se pode ver dados ou código dentro do enclave, mesmo com um depuração. Se o código não fidedifuso tentar alterar o conteúdo na memória do enclave, a SGX desativa o ambiente e nega as operações. Estas capacidades únicas ajudam-no a proteger os seus segredos de serem acessíveis de forma clara.
 
 Link: https://learn.microsoft.com/pt-pt/azure/confidential-computing/confidential-computing-enclaves
+
+
+Uma empresa usa o Microsoft 365.
+
+A empresa exige documentação que confirme que os serviços em nuvem da Microsoft protegerão os dados da empresa.
+Você precisa recomendar uma ferramenta que forneça a documentação.
+Qual ferramenta você deve recomendar?
+
+R: Portal de Confiança do Serviço
+
+- O Microsoft Service Trust Portal fornece uma variedade de conteúdo, ferramentas e outros recursos sobre como os serviços de nuvem da Microsoft protegem seus dados e como você pode gerenciar a segurança e a conformidade dos dados de nuvem para sua organização.
+
+- O Service Trust Portal (STP) é o site público da Microsoft para publicação de relatórios de auditoria e outras informações relacionadas à conformidade associadas aos serviços de nuvem da Microsoft. Os usuários do STP podem baixar relatórios de auditoria produzidos por auditores externos e obter insights de whitepapers de autoria da Microsoft que fornecem detalhes sobre como os serviços em nuvem da Microsoft protegem seus dados e como você pode gerenciar a segurança e a conformidade dos dados em nuvem para sua organização.
+
+- Acessando o portal de confiança do serviço
+Para acessar alguns dos recursos no portal de confiança do serviço, você deve fazer login como um usuário autenticado com sua conta de serviços de nuvem da Microsoft (conta da organização do Azure Active Directory) e revisar e aceitar o contrato de confidencialidade da Microsoft para materiais de conformidade.
+
+- Categorias de conteúdo do portal de confiança do serviço
+A página inicial do Service Trust Portal inclui conteúdo organizado nas seguintes categorias:
+
+- Certificações, regulamentos e padrões
+- Relatórios, whitepapers e artefatos
+- Recursos Setoriais e Regionais
+- Recursos para sua organização
+
+Trust Portal: https://servicetrust.microsoft.com/
+
+Link: https://learn.microsoft.com/pt-br/microsoft-365/compliance/get-started-with-service-trust-portal?view=o365-worldwide
