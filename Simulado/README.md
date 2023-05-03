@@ -6,6 +6,8 @@ Link: https://learn.microsoft.com/pt-br/certifications/exams/ms-900/practice/ass
 
 A empresa precisa de profissionais de segurança para usar o portal do Microsoft 365 Defender para pesquisar proativamente ameaças não detectadas nos dispositivos e aplicativos dos usuários.
 
+# Pergunta 1
+
 Você precisa recomendar uma solução.
 
 Qual solução você deve recomendar?
@@ -21,6 +23,7 @@ A busca avançada é uma ferramenta de busca de ameaças baseada em consulta que
 
 Link: https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-overview?view=o365-worldwide
 
+# Pergunta 2
 
 Uma empresa usa o Microsoft 365.
 - A empresa precisa mitigar os ataques de segurança aos dados dentro dos caches da RAM ou da CPU.
