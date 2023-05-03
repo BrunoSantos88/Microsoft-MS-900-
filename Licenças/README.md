@@ -12,10 +12,10 @@ USLs Step Up são para clientes que desejam atualizar o nível de seu serviço.]
 Um direito de licença representa seu direito de instalar e usar produtos de software, conforme detalhado no contrato de licença.
 
 # Qual é a quantidade efetiva
-A Quantidade Efetiva é o número de direitos de licença por produto e versão com atualizações. Ele pode ser usado para determinar se sua organização tem deficiências de licença ou excedentes por produto e versão.
+- A Quantidade Efetiva é o número de direitos de licença por produto e versão com atualizações. Ele pode ser usado para determinar se sua organização tem deficiências de licença ou excedentes por produto e versão.
 
 # O que é a quantidade de SA ativa (Software Assurance)
-A Quantidade de SA Ativa é exibida no Resumo da Licença. Ele representa o número de licenças cobertas pelo Software Assurance (proteção de atualização de versão) em todos os programas de Licença por Volume da Microsoft. A Quantidade de SA Ativa inclui todos os tipos de Software Assurance, incluindo:
+- A Quantidade de SA Ativa é exibida no Resumo da Licença. Ele representa o número de licenças cobertas pelo Software Assurance (proteção de atualização de versão) em todos os programas de Licença por Volume da Microsoft. A Quantidade de SA Ativa inclui todos os tipos de Software Assurance, incluindo:
 
 # O Resumo da Licença exibe o software implantado
 
