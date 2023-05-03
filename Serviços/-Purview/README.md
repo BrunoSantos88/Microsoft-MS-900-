@@ -16,10 +16,11 @@ Gerenciamento de registros : usa classificação inteligente para automatizar e 
 
 - Gerenciamento de privacidade : gera insights acionáveis sobre dados pessoais da empresa para ajudá-lo a identificar problemas e reduzir riscos. Fornece modelos de política fáceis de usar que capacitam os funcionários a proteger os dados e recursos de automação para um processo de solicitação de direitos de titular mais tranquilo.
 
-
 - Auditoria : registra as atividades de usuários e administradores de sua organização para que você possa pesquisar o log de auditoria e investigar uma lista abrangente de atividades em todos os locais e serviços.
 Solicitações de titulares de dados : Localiza e exporta os dados pessoais de um usuário para ajudá-lo a responder às solicitações de titulares de dados para GDPR.
-- eDiscovery
+
+# eDiscovery
+
 - eDiscovery (padrão) : pesquisa em locais de conteúdo para identificar, preservar e exportar dados em resposta a solicitações de descoberta legal e casos de - eDiscovery.
 - eDiscovery (Premium) : baseia-se nos recursos de eDiscovery, fornecendo análises inteligentes e aprendizado de máquina para ajudá-lo a analisar melhor os dados relevantes para as solicitações de descoberta.
 
