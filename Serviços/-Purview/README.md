@@ -6,6 +6,7 @@ Você está procurando uma maneira de começar rapidamente com as tarefas de con
 
 As soluções de risco e conformidade no Microsoft Purview são coleções de recursos integrados que você pode usar para ajudá-lo a gerenciar cenários de conformidade de ponta a ponta. Os recursos e as ferramentas de uma solução podem incluir uma combinação de políticas, alertas, relatórios e muito mais.
 
+# (licença) necessaria.
 - Se você não for um cliente E5, use a avaliação de 90 dias das soluções Microsoft Purview para explorar como os recursos adicionais do Purview podem ajudar sua organização a gerenciar as necessidades de conformidade e segurança de dados. Comece agora no hub de testes do portal de conformidade do Microsoft Purview . Saiba detalhes sobre como se inscrever e os termos de avaliação .
 
 - Governança de aplicativos : ajuda você a entender todos os aplicativos que se conectam à sua organização e controlam suas atividades de API.
