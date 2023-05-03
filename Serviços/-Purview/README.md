@@ -9,6 +9,8 @@ As soluções de risco e conformidade no Microsoft Purview são coleções de re
 # (licença) necessaria.
 - Se você não for um cliente E5, use a avaliação de 90 dias das soluções Microsoft Purview para explorar como os recursos adicionais do Purview podem ajudar sua organização a gerenciar as necessidades de conformidade e segurança de dados. Comece agora no hub de testes do portal de conformidade do Microsoft Purview . Saiba detalhes sobre como se inscrever e os termos de avaliação .
 
+# Purview
+
 - Governança de aplicativos : ajuda você a entender todos os aplicativos que se conectam à sua organização e controlam suas atividades de API.
 Gerenciamento do ciclo de vida dos dados : gerencia o ciclo de vida do conteúdo usando soluções para importar, armazenar e classificar dados críticos para os negócios, para que você possa manter o que precisa e excluir o que não precisa.
 - Prevenção contra perda de dados : detecta conteúdo confidencial à medida que é usado e compartilhado em toda a organização, na nuvem e em dispositivos, e ajuda a evitar a perda acidental de dados.
