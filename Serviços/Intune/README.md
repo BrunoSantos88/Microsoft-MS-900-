@@ -9,7 +9,7 @@ O Microsoft Intune é uma solução de gerenciamento de endpoint baseada em nuve
 
 Você pode proteger o acesso e os dados em dispositivos pessoais de usuários e de propriedade da organização. Além disso, o Intune possui recursos de conformidade e relatórios que dão suporte ao modelo de segurança Zero Trust .
 
-# Este artigo lista alguns recursos e benefícios do Microsoft Intune.
+- Este artigo lista alguns recursos e benefícios do Microsoft Intune.
 
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/236079247-fefa2435-d595-4239-8182-4c5cb710b8cf.png" width="1000px" align="centter" alt="planos">
