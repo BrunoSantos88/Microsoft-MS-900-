@@ -2,6 +2,9 @@
 
 Link: https://learn.microsoft.com/pt-br/certifications/exams/ms-900/practice/assessment?assessmentId=50&assessment-type=practice
 
+- % entre 76 -- 90 % Simulado da Microsoft
+- Ultima tentativa 620 pontos Prova official
+
 # Perguntas, Duvidas e  Link de conteudo.
 
 A empresa precisa de profissionais de segurança para usar o portal do Microsoft 365 Defender para pesquisar proativamente ameaças não detectadas nos dispositivos e aplicativos dos usuários.
