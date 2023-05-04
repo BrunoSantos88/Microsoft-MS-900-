@@ -35,3 +35,6 @@ Você usa um centro de administração baseado na Web que se concentra no gerenc
 Para obter mais informações, acesse Passo a passo do centro de administração do Intune . Para entrar no centro de administração, acesse o centro de administração do Microsoft Intune .
 
 Este centro de administração usa APIs REST do Microsoft Graph para acessar programaticamente o serviço Intune. Cada ação no centro de administração é uma chamada do Microsoft Graph. Se você não estiver familiarizado com o Graph e quiser saber mais, acesse Graph integra-se ao Microsoft Intune .
+
+
+Link: https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
