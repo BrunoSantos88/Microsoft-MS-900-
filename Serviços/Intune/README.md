@@ -36,5 +36,5 @@ Para obter mais informações, acesse Passo a passo do centro de administração
 
 Este centro de administração usa APIs REST do Microsoft Graph para acessar programaticamente o serviço Intune. Cada ação no centro de administração é uma chamada do Microsoft Graph. Se você não estiver familiarizado com o Graph e quiser saber mais, acesse Graph integra-se ao Microsoft Intune .
 
-
+# MAIS CONTEUDO INTUNE
 Link: https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
