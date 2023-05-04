@@ -18,23 +18,17 @@ Você pode gerenciar usuários e dispositivos , incluindo dispositivos pertencen
 
 O Intune simplifica o gerenciamento de aplicativos com uma experiência de aplicativo integrada, incluindo implantação, atualizações e remoção de aplicativos. Você pode se conectar e distribuir aplicativos de suas lojas de aplicativos particulares, habilitar aplicativos do Microsoft 365, implantar aplicativos Win32, criar políticas de proteção de aplicativos e gerenciar o acesso a aplicativos e seus dados.
 
-# Para obter mais informações.
-
-Acesse Gerenciar aplicativos usando o Microsoft Intune .
+# Acesse Gerenciar aplicativos usando o Microsoft Intune .
 
 O Intune automatiza a implantação de políticas para aplicativos, segurança, configuração de dispositivos, conformidade, acesso condicional e muito mais. Quando as políticas estiverem prontas, você poderá implantá-las em seus grupos de usuários e grupos de dispositivos. Para receber essas políticas, os dispositivos precisam apenas de acesso à internet.
 
 Funcionários e alunos podem usar os recursos de autoatendimento no aplicativo Portal da Empresa para redefinir um PIN/senha, instalar aplicativos, ingressar em grupos e muito mais. Você pode personalizar o aplicativo Portal da Empresa para ajudar a reduzir as chamadas de suporte.
 
-# Para obter mais informações,
-
 Acesse Configurar os aplicativos do Portal da Empresa do Intune, o site do Portal da Empresa e o aplicativo do Intune .
 
 O Intune se integra aos serviços de defesa contra ameaças móveis , incluindo o Microsoft Defender for Endpoint e serviços de terceiros. Com esses serviços, o foco está na segurança do endpoint e você pode criar políticas que respondem a ameaças, fazer análises de risco em tempo real e automatizar a correção.
 
-# Para obter mais informações, 
-
-Acesse Integração do Mobile Threat Defense com o Intune .
+# Acesse Integração do Mobile Threat Defense com o Intune .
 
 Você usa um centro de administração baseado na Web que se concentra no gerenciamento de endpoints, incluindo relatórios baseados em dados. Os administradores podem entrar no centro de administração do Intune de qualquer dispositivo que tenha acesso à Internet.
 
