@@ -1,58 +1,43 @@
-# Microsoft-MS-900
-Guia Pratico e Teorico dos produtos Microsoft 365
+# Microsoft Intune
+
+O Microsoft Intune gerencia com segurança identidades, aplicativos e dispositivos
+
+À medida que as organizações se movem para oferecer suporte a forças de trabalho híbridas e remotas, elas são desafiadas a gerenciar os diferentes dispositivos que acessam os recursos da organização. Funcionários e alunos precisam colaborar, trabalhar de qualquer lugar e acessar e se conectar com segurança a esses recursos. Os administradores precisam proteger os dados da organização, gerenciar o acesso do usuário final e dar suporte aos usuários onde quer que eles trabalhem.
 
 
-PLanos Empresa basicos MS 365
-Planos resume por licenças ou recursos.
+O Microsoft Intune é uma solução de gerenciamento de endpoint baseada em nuvem. Ele gerencia o acesso do usuário e simplifica o gerenciamento de aplicativos e dispositivos em vários dispositivos, incluindo dispositivos móveis, computadores de mesa e endpoints virtuais.
 
-Licenças empresa: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
+Você pode proteger o acesso e os dados em dispositivos pessoais de usuários e de propriedade da organização. Além disso, o Intune possui recursos de conformidade e relatórios que dão suporte ao modelo de segurança Zero Trust .
+
+- Este artigo lista alguns recursos e benefícios do Microsoft Intune.
+
 </p>
-<img src="https://user-images.githubusercontent.com/91704169/229573637-3f20eb91-2aad-4fc4-a551-82f3f1c1079e.png" width="1000px" align="centter" alt="planos">
+<img src="https://user-images.githubusercontent.com/91704169/236079247-fefa2435-d595-4239-8182-4c5cb710b8cf.png" width="1000px" align="centter" alt="planos">
 
+# Principais recursos e benefícios
+Alguns dos principais recursos e benefícios do Intune incluem:
 
-- As diferenças entre o Office 365 e o Microsoft 365
-O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, Excel, PowerPoint e Outlook, além de serviços como Microsoft Exchange, SharePoint, Teams e OneDrive. O Microsoft 365 é um serviço baseado em nuvem que inclui os mesmos aplicativos e serviços do Office, além do Windows 10 e Enterprise Mobility + Security.
+Você pode gerenciar usuários e dispositivos , incluindo dispositivos pertencentes à sua organização e dispositivos pessoais. O Microsoft Intune oferece suporte a Android, Android Open Source Project (AOSP), iOS/iPadOS, macOS e dispositivos cliente Windows. Com o Intune, você pode usar esses dispositivos para acessar com segurança os recursos da organização com as políticas criadas por você.
 
-- Enterprise Mobility + Security (EMS) é uma plataforma de gerenciamento e segurança de mobilidade que inclui serviços como Azure Active Directory (Azure AD), Microsoft Intune, Azure Information Protection e Microsoft Advanced Threat Analytics. O Azure AD é um serviço de gerenciamento de acesso e identidade baseado em nuvem. Esse serviço do Azure ajuda seus funcionários a acessar recursos externos, como o Microsoft 365, e gerencia as identidades dos usuários nos bastidores.
+O Intune simplifica o gerenciamento de aplicativos com uma experiência de aplicativo integrada, incluindo implantação, atualizações e remoção de aplicativos. Você pode se conectar e distribuir aplicativos de suas lojas de aplicativos particulares, habilitar aplicativos do Microsoft 365, implantar aplicativos Win32, criar políticas de proteção de aplicativos e gerenciar o acesso a aplicativos e seus dados.
 
-- Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
+# Acesse Gerenciar aplicativos usando o Microsoft Intune .
 
-Licenças office: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
+O Intune automatiza a implantação de políticas para aplicativos, segurança, configuração de dispositivos, conformidade, acesso condicional e muito mais. Quando as políticas estiverem prontas, você poderá implantá-las em seus grupos de usuários e grupos de dispositivos. Para receber essas políticas, os dispositivos precisam apenas de acesso à internet.
 
---Divisão de responsabilidade
+Funcionários e alunos podem usar os recursos de autoatendimento no aplicativo Portal da Empresa para redefinir um PIN/senha, instalar aplicativos, ingressar em grupos e muito mais. Você pode personalizar o aplicativo Portal da Empresa para ajudar a reduzir as chamadas de suporte.
 
-Link https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility </p>
-link https://learn.microsoft.com/pt-br/training/modules/fundamental-azure-concepts/categories-of-cloud-services
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230213319-22983930-3121-43c2-ada7-69a3e0ada4cf.png" alt="IAASAASPAAS" width="1000px" align="centter" alt="planos">
+Acesse Configurar os aplicativos do Portal da Empresa do Intune, o site do Portal da Empresa e o aplicativo do Intune .
 
--Tipo de suporte
+O Intune se integra aos serviços de defesa contra ameaças móveis , incluindo o Microsoft Defender for Endpoint e serviços de terceiros. Com esses serviços, o foco está na segurança do endpoint e você pode criar políticas que respondem a ameaças, fazer análises de risco em tempo real e automatizar a correção.
 
-Suporte baseado na comunidade	Sua organização pode aproveitar o suporte baseado na comunidade por meio do Microsoft 365 Tech Community ou do Microsoft 365 e do Office – Microsoft Community. 
-Você pode colaborar com outras pessoas, fazer perguntas e resolver problemas e problemas com membros da Microsoft e da comunidade.
+# Acesse Integração do Mobile Threat Defense com o Intune .
 
--Autoajuda	Sua organização pode receber ajuda por meio do Centro de administração do Microsoft 365 usando o botão "Suporte à ajuda&" ou navegando até Contact – Suporte da Microsoft. Faça uma pergunta e exiba os resultados. Se as instruções ou artigos recomendados não responderem à sua pergunta, você poderá entrar em contato com o suporte técnico.
+Você usa um centro de administração baseado na Web que se concentra no gerenciamento de endpoints, incluindo relatórios baseados em dados. Os administradores podem entrar no centro de administração do Intune de qualquer dispositivo que tenha acesso à Internet.
 
--Web chat, email e suporte por telefone	Sua organização pode enviar problemas ao suporte da Microsoft para suporte técnico, de cobrança e de assinatura por email, web chat ou telefone. Para entrar em contato com o suporte, consulte Contact Us – Suporte da Microsoft.
+Para obter mais informações, acesse Passo a passo do centro de administração do Intune . Para entrar no centro de administração, acesse o centro de administração do Microsoft Intune .
 
--Q&A fóruns 
-E ajuda online	Encontre respostas precisas para perguntas sobre tecnologias da Microsoft por meio do Microsoft Q&A, Todas as Perguntas – Microsoft Q&A. Você também pode encontrar informações e respostas para perguntas por meio de ajuda online, como o Microsoft 365 help & learning ou o Microsoft Learn.
+Este centro de administração usa APIs REST do Microsoft Graph para acessar programaticamente o serviço Intune. Cada ação no centro de administração é uma chamada do Microsoft Graph. Se você não estiver familiarizado com o Graph e quiser saber mais, acesse Graph integra-se ao Microsoft Intune .
 
--Suporte para pré-vendas	Sua organização é fornecida com assistência sobre recursos de assinatura, benefícios e sua decisão de compra para serviços do Microsoft 365.
-
--FastTrack	
-O FastTrack é um serviço fornecido pela Microsoft que ajuda os clientes a integrar soluções do Microsoft Cloud e impulsionar a adoção do usuário. Clientes com assinaturas qualificadas para Microsoft 365, Azure ou Dynamics 365 podem usar o FastTrack sem custo adicional para a vida útil de sua assinatura.
-
--Suporte unificado da Microsoft	
-O suporte unificado da Microsoft é um serviço que fornece suporte abrangente em toda a sua organização por meio de suporte técnico 24 horas por dia, 7 dias por semana, um Gerenciador de Contas de Sucesso do Cliente atribuído, suporte consultivo, assistência na nuvem, treinamento técnico e muito mais.
-
--Suporte por meio de um parceiro da Microsoft	
-Sua organização pode obter suporte diretamente por meio de um parceiro certificado do Microsoft 365. Por exemplo, se sua organização adquiriu uma assinatura Microsoft 365 através de um fornecedor de serviços em nuvem (CSP), eles receberão suporte direto do CSP. O CSP atuará como a primeira linha de apoio para todas as questões e aumentará os problemas para a Microsoft se eles não forem capazes de resolvê-los.
-
-Outras opções de suporte	Sua organização pode instalar o Assistente de Recuperação e Suporte da Microsoft para ajudar a identificar problemas executando testes e oferecer a melhor solução para esses problemas. No momento ele pode corrigir problemas do Office, Microsoft 365 ou do Outlook. Business Assist para Microsoft 365 está disponível para pequenas empresas oferecerem a você e seus funcionários suporte 24 horas por dia e acesso a especialistas em pequenas empresas à medida que você cresce sua empresa, da integração ao uso diário.
-
-Link: https://learn.microsoft.com/pt-br/training/modules/describe-support-offerings-for-microsoft-365-services/2-explore-support-options
+# MAIS CONTEUDO INTUNE
+Link: https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
