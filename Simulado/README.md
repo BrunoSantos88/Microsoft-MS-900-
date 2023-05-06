@@ -41,6 +41,7 @@ R: Enclaves
 
 Link: https://learn.microsoft.com/pt-pt/azure/confidential-computing/confidential-computing-enclaves
 
+# Pergunta 3
 
 Uma empresa usa o Microsoft 365.
 
@@ -49,10 +50,6 @@ Você precisa recomendar uma ferramenta que forneça a documentação.
 Qual ferramenta você deve recomendar?
 
 R: Portal de Confiança do Serviço
-
-- O Microsoft Service Trust Portal fornece uma variedade de conteúdo, ferramentas e outros recursos sobre como os serviços de nuvem da Microsoft protegem seus dados e como você pode gerenciar a segurança e a conformidade dos dados de nuvem para sua organização.
-
-- O Service Trust Portal (STP) é o site público da Microsoft para publicação de relatórios de auditoria e outras informações relacionadas à conformidade associadas aos serviços de nuvem da Microsoft. Os usuários do STP podem baixar relatórios de auditoria produzidos por auditores externos e obter insights de whitepapers de autoria da Microsoft que fornecem detalhes sobre como os serviços em nuvem da Microsoft protegem seus dados e como você pode gerenciar a segurança e a conformidade dos dados em nuvem para sua organização.
 
 - Acessando o portal de confiança do serviço
 Para acessar alguns dos recursos no portal de confiança do serviço, você deve fazer login como um usuário autenticado com sua conta de serviços de nuvem da Microsoft (conta da organização do Azure Active Directory) e revisar e aceitar o contrato de confidencialidade da Microsoft para materiais de conformidade.
