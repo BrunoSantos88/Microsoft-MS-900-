@@ -2,7 +2,7 @@
 
 - Windows 10
 - Windows 11
-- 
+
 Procurando informações de consumidor? Consulte Windows Update: perguntas frequentes
 
 Windows como serviço é uma maneira de simplificar a vida dos profissionais de TI e manter uma experiência de Windows 10 consistente para seus clientes. Essas melhorias focam em aumentar o envolvimento dos clientes no desenvolvimento do Windows, simplificar a implantação e manutenção de computadores cliente Windows e nivelar os recursos necessários para implantar e manter o Windows ao longo do tempo.
