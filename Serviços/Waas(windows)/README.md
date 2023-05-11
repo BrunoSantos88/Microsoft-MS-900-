@@ -1,58 +1,38 @@
-# Microsoft-MS-900
-Guia Pratico e Teorico dos produtos Microsoft 365
+# Visão geral do Windows como serviço
 
+- Windows 10
+- Windows 11
 
-Planos Empresa basicos MS 365
-Planos resume por licenças ou recursos.
+Procurando informações de consumidor? Consulte Windows Update: perguntas frequentes
 
-Licenças empresa: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/229573637-3f20eb91-2aad-4fc4-a551-82f3f1c1079e.png" width="1000px" align="centter" alt="planos">
+Windows como serviço é uma maneira de simplificar a vida dos profissionais de TI e manter uma experiência de Windows 10 consistente para seus clientes. Essas melhorias focam em aumentar o envolvimento dos clientes no desenvolvimento do Windows, simplificar a implantação e manutenção de computadores cliente Windows e nivelar os recursos necessários para implantar e manter o Windows ao longo do tempo.
 
+# Criação
+Antes do Windows 10, a Microsoft lançou novas versões do Windows de tempos em tempos. Esse agendamento de implantação tradicional exercia uma sobrecarga de treinamento para os usuários porque as revisões de recursos costumavam ser significativas. O agendamento também significava ter de esperar longos períodos sem novos recursos — um cenário que não funciona hoje, onde o mundo muda rapidamente, um mundo no qual novas funcionalidades de segurança, gerenciamento e implantação são necessárias para superar os desafios. O Windows como serviço fornecerá atualizações de recursos menores duas por ano, aproximadamente em março e setembro, para ajudar a resolver esses problemas.
 
-- As diferenças entre o Office 365 e o Microsoft 365
-O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, Excel, PowerPoint e Outlook, além de serviços como Microsoft Exchange, SharePoint, Teams e OneDrive. O Microsoft 365 é um serviço baseado em nuvem que inclui os mesmos aplicativos e serviços do Office, além do Windows 10 e Enterprise Mobility + Security.
+Anteriormente, quando a Microsoft desenvolvia novas versões do Windows, ela normalmente liberava prévias técnicas perto do final do processo, quando o Windows estava quase pronto para entrega. Com o Windows 10, os novos recursos são enviados para a comunidade de Participante do Insider Program assim que possível, durante o ciclo de desenvolvimento, por meio de um processo chamado liberação de versões de pré-lançamento, para que as organizações possam ver exatamente o que a Microsoft está desenvolvendo e iniciar seus testes o mais rápido possível.
 
-- Enterprise Mobility + Security (EMS) é uma plataforma de gerenciamento e segurança de mobilidade que inclui serviços como Azure Active Directory (Azure AD), Microsoft Intune, Azure Information Protection e Microsoft Advanced Threat Analytics. O Azure AD é um serviço de gerenciamento de acesso e identidade baseado em nuvem. Esse serviço do Azure ajuda seus funcionários a acessar recursos externos, como o Microsoft 365, e gerencia as identidades dos usuários nos bastidores.
+A Microsoft também depende do recebimento de comentários das organizações ao longo do processo de desenvolvimento para poder fazer ajustes o mais rápido possível, em vez de aguardar o pós-lançamento. Para obter mais informações sobre o Programa Windows Insider e como se inscrever, consulte a seção Windows Insider.
 
-- Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
+É claro que a Microsoft também realiza testes internos abrangentes, onde as equipes de engenharia instalam novas versões diariamente, e grupos maiores de funcionários instalam as versões com frequência, tudo isso antes que essas versões sejam lançadas no Programa Windows Insider.
 
-Licenças office: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
+# Implantação
+Implantar Windows 10 e Windows 11 é mais simples do que com versões anteriores do Windows. Ao migrar de versões anteriores do Windows, você pode usar um processo de atualização fácil no local para preservar automaticamente todos os aplicativos, configurações e dados. Posteriormente, a implantação de atualizações de recursos é igualmente simples.
 
---Divisão de responsabilidade
+# Compatibilidade de aplicativos
+O teste de compatibilidade de aplicativos costumava ser um fardo quando se tratava de uma implantação ou atualização do Windows. A compatibilidade do aplicativo com base na perspectiva de aplicativos, sites e aplicativos de área de trabalho criados no Plataforma Universal do Windows (UWP) melhorou consideravelmente em relação às versões mais antigas do Windows. Para os aplicativos essenciais para os negócios mais importantes, as organizações ainda devem executar testes regulares para validar a compatibilidade com as novas versões.
 
-Link https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility </p>
-link https://learn.microsoft.com/pt-br/training/modules/fundamental-azure-concepts/categories-of-cloud-services
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230213319-22983930-3121-43c2-ada7-69a3e0ada4cf.png" alt="IAASAASPAAS" width="1000px" align="centter" alt="planos">
+# Manutenção
+A manutenção tradicional do Windows incluiu vários tipos de versão: revisões importantes (por exemplo, os sistemas operacionais Windows 8.1, Windows 8 e Windows 7), service packs e atualizações mensais. Com Windows 10 e Windows 11, há dois tipos de versão: atualizações de recursos que adicionam novas funcionalidades e atualizações de qualidade que fornecem correções de segurança e confiabilidade.
 
--Tipo de suporte
+Os canais de manutenção são a primeira maneira de separar os usuários em grupos de implantação para atualizações de recursos e qualidade. Para obter mais informações sobre como desenvolver uma estratégia de implantação que aproveita os canais de manutenção, consulte Planejar estratégia de manutenção para atualizações de cliente do Windows.
 
-Suporte baseado na comunidade	Sua organização pode aproveitar o suporte baseado na comunidade por meio do Microsoft 365 Tech Community ou do Microsoft 365 e do Office – Microsoft Community. 
-Você pode colaborar com outras pessoas, fazer perguntas e resolver problemas e problemas com membros da Microsoft e da comunidade.
+Para obter informações sobre cada ferramenta de manutenção, consulte Ferramentas de manutenção.
 
--Autoajuda	Sua organização pode receber ajuda por meio do Centro de administração do Microsoft 365 usando o botão "Suporte à ajuda&" ou navegando até Contact – Suporte da Microsoft. Faça uma pergunta e exiba os resultados. Se as instruções ou artigos recomendados não responderem à sua pergunta, você poderá entrar em contato com o suporte técnico.
+Há três canais de manutenção, cada um dos quais fornece níveis diferentes de flexibilidade quando essas atualizações são entregues aos computadores cliente. Para obter mais informações, consulte Canais de manutenção.
 
--Web chat, email e suporte por telefone	Sua organização pode enviar problemas ao suporte da Microsoft para suporte técnico, de cobrança e de assinatura por email, web chat ou telefone. Para entrar em contato com o suporte, consulte Contact Us – Suporte da Microsoft.
+# Atualmente, há três canais de versão para clientes Windows:
 
--Q&A fóruns 
-E ajuda online	Encontre respostas precisas para perguntas sobre tecnologias da Microsoft por meio do Microsoft Q&A, Todas as Perguntas – Microsoft Q&A. Você também pode encontrar informações e respostas para perguntas por meio de ajuda online, como o Microsoft 365 help & learning ou o Microsoft Learn.
-
--Suporte para pré-vendas	Sua organização é fornecida com assistência sobre recursos de assinatura, benefícios e sua decisão de compra para serviços do Microsoft 365.
-
--FastTrack	
-O FastTrack é um serviço fornecido pela Microsoft que ajuda os clientes a integrar soluções do Microsoft Cloud e impulsionar a adoção do usuário. Clientes com assinaturas qualificadas para Microsoft 365, Azure ou Dynamics 365 podem usar o FastTrack sem custo adicional para a vida útil de sua assinatura.
-
--Suporte unificado da Microsoft	
-O suporte unificado da Microsoft é um serviço que fornece suporte abrangente em toda a sua organização por meio de suporte técnico 24 horas por dia, 7 dias por semana, um Gerenciador de Contas de Sucesso do Cliente atribuído, suporte consultivo, assistência na nuvem, treinamento técnico e muito mais.
-
--Suporte por meio de um parceiro da Microsoft	
-Sua organização pode obter suporte diretamente por meio de um parceiro certificado do Microsoft 365. Por exemplo, se sua organização adquiriu uma assinatura Microsoft 365 através de um fornecedor de serviços em nuvem (CSP), eles receberão suporte direto do CSP. O CSP atuará como a primeira linha de apoio para todas as questões e aumentará os problemas para a Microsoft se eles não forem capazes de resolvê-los.
-
-Outras opções de suporte	Sua organização pode instalar o Assistente de Recuperação e Suporte da Microsoft para ajudar a identificar problemas executando testes e oferecer a melhor solução para esses problemas. No momento ele pode corrigir problemas do Office, Microsoft 365 ou do Outlook. Business Assist para Microsoft 365 está disponível para pequenas empresas oferecerem a você e seus funcionários suporte 24 horas por dia e acesso a especialistas em pequenas empresas à medida que você cresce sua empresa, da integração ao uso diário.
-
-Link: https://learn.microsoft.com/pt-br/training/modules/describe-support-offerings-for-microsoft-365-services/2-explore-support-options
+- O Canal de Disponibilidade Geral recebe atualizações de recursos assim que elas estão disponíveis.
+- O Canal de Manutenção de Longo Prazo, que foi projetado para ser usado apenas para dispositivos especializados (que normalmente não executam o Office), como aqueles que controlam equipamentos médicos ou computadores ATM, recebe novas versões de recursos a cada dois ou três anos.
+- O Programa Windows Insider oferece às organizações a oportunidade de testar e fornecer comentários sobre os recursos que serão enviados na próxima atualização de recurso.
