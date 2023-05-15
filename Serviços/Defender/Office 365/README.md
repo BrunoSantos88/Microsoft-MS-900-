@@ -37,3 +37,6 @@ Todos os usuários Exchange Online no locatário. Isso ocorre porque os recursos
 Todas as caixas de correio compartilhadas no locatário.
 If Safe Attachments protection for SharePoint, OneDrive for Business, or Teams is turned on, all users that access SharePoint, OneDrive for Business, or Teams.
 Any user that uses Microsoft 365 Apps or Teams when Safe Links protections are enabled.
+
+
+# Office 365 E5, Microsoft 365 E5 Security e Microsoft 365 E5 incluem Microsoft Defender para licenças do Office P2 e Microsoft 365 Business Premium inclui Microsoft Defender para Office 365 licenças P1.
