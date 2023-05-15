@@ -39,4 +39,6 @@ If Safe Attachments protection for SharePoint, OneDrive for Business, or Teams i
 Any user that uses Microsoft 365 Apps or Teams when Safe Links protections are enabled.
 
 
-# Office 365 E5, Microsoft 365 E5 Security e Microsoft 365 E5 incluem Microsoft Defender para licenças do Office P2 e Microsoft 365 Business Premium inclui Microsoft Defender para Office 365 licenças P1.
+# Licenças
+
+- Office 365 E5, Microsoft 365 E5 Security e Microsoft 365 E5 incluem Microsoft Defender para licenças do Office P2 e Microsoft 365 Business Premium inclui Microsoft Defender para Office 365 licenças P1.
