@@ -45,7 +45,3 @@ Destaque o comportamento do invasor caso ele venha comandar o domínio, por meio
 
 # Investigar alertas e atividades do usuário
 O Defender para Identidade foi projetado para reduzir o ruído de alertas gerais, fornecendo apenas alertas de segurança importantes e relevantes em uma linha do tempo de ataque organizacional simples e em tempo real. A exibição da linha do tempo do ataque do Defender para Identidade permite que você mantenha com facilidade o foco no que realmente importa, aproveitando a análise inteligente. Use o Defender para Identidade para investigar rapidamente as ameaças e receber insights de toda a organização sobre usuários, dispositivos e recursos de rede. A integração perfeita ao Microsoft Defender para Ponto de Extremidade fornece outra camada de segurança aprimorada com a detecção adicional e a proteção contra ameaças persistentes avançadas no sistema operacional.
-
-# Recursos adicionais do Microsoft Defender para Identidade
-Comece uma avaliação gratuita
-https://signup.microsoft.com/Signup?OfferId=87dd2714-d452-48a0-a809-d2f58c4f68b7&ali=1
