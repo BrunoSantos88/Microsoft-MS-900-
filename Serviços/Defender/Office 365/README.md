@@ -45,11 +45,9 @@ Any user that uses Microsoft 365 Apps or Teams when Safe Links protections are e
 
 # Descrever os serviços do Microsoft 365 Defender
 
-O Microsoft 365 Defender é um pacote de defesa para empresas que protege contra ataques cibernéticos sofisticados. Com o Microsoft 365 Defender, você pode coordenar nativamente a detecção, prevenção, investigação e resposta a ameaças em pontos de extremidade, identidades, email e aplicativos.
+- O Microsoft 365 Defender é um pacote de defesa para empresas que protege contra ataques cibernéticos sofisticados. Com o Microsoft 365 Defender, você pode coordenar nativamente a detecção, prevenção, investigação e resposta a ameaças em pontos de extremidade, identidades, email e aplicativos.
 
-Este vídeo breve de três minutos fornece uma visão geral essencial do Microsoft 365 Defender.
-
-O Microsoft 365 Defender permite que os administradores avaliem sinais de ameaça de pontos de extremidade, aplicativos, emails e identidades para determinar o escopo e o impacto de um ataque. Ele fornece mais informações sobre como a ameaça ocorreu e quais sistemas foram afetados. O Microsoft 365 Defender pode, então, executar uma ação automatizada para impedir ou interromper o ataque.
+- O Microsoft 365 Defender permite que os administradores avaliem sinais de ameaça de pontos de extremidade, aplicativos, emails e identidades para determinar o escopo e o impacto de um ataque. Ele fornece mais informações sobre como a ameaça ocorreu e quais sistemas foram afetados. O Microsoft 365 Defender pode, então, executar uma ação automatizada para impedir ou interromper o ataque.
 
 - Identidades com o Microsoft Defender para Identidade e Azure AD Identity Protection – O Microsoft Defender para Identidade usam os sinais do Active Directory para identificar, detectar e investigar ameaças avançadas, identidades comprometidas e ações internas intencionais direcionadas para a sua organização.
 - Pontos de extremidade com o Microsoft Defender for Endpoint – o Microsoft Defender for Endpoint é uma plataforma de ponto de extremidade unificada para proteção preventiva, detecção de pós  violação, investigação automatizada e resposta.
