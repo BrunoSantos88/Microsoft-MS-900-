@@ -1,24 +1,39 @@
-# Microsoft-MS-900
-Guia Pratico e Teorico dos produtos Microsoft 365
+# Microsoft Defender para Office 365
 
+Microsoft Defender para Office 365 é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra ameaças avançadas a ferramentas de email e colaboração, como phishing, compromisso de email comercial e ataques de malware. Defender para Office 365 também fornece recursos de investigação, busca e correção para ajudar as equipes de segurança a identificar, priorizar, investigar e responder a ameaças com eficiência.
 
-PLanos Empresa basicos MS 365
-Planos resume por licenças ou recursos.
+Veja a seguir as principais maneiras de usar Defender para Office 365 para proteção de mensagens:
 
-Licenças empresa: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/229573637-3f20eb91-2aad-4fc4-a551-82f3f1c1079e.png" width="1000px" align="centter" alt="planos">
+Em um cenário somente filtragem Defender para Office 365, Defender para Office 365 fornece proteção por email baseada em nuvem para seu ambiente Exchange Server local ou qualquer outra solução de email SMTP local.
 
+Defender para Office 365 pode ser habilitado para proteger Exchange Online caixas de correio hospedadas na nuvem. Para saber mais sobre Exchange Online, consulte a descrição do serviço Exchange Online.
 
-- As diferenças entre o Office 365 e o Microsoft 365
-O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, Excel, PowerPoint e Outlook, além de serviços como Microsoft Exchange, SharePoint, Teams e OneDrive. O Microsoft 365 é um serviço baseado em nuvem que inclui os mesmos aplicativos e serviços do Office, além do Windows 10 e Enterprise Mobility + Security.
+Em uma implantação híbrida, Defender para Office 365 pode ser configurado para proteger seu ambiente de mensagens e controlar o roteamento de email quando você tiver uma mistura de caixas de correio locais e de nuvem com Proteção do Exchange Online para filtragem de email de entrada.
 
-- Enterprise Mobility + Security (EMS) é uma plataforma de gerenciamento e segurança de mobilidade que inclui serviços como Azure Active Directory (Azure AD), Microsoft Intune, Azure Information Protection e Microsoft Advanced Threat Analytics. O Azure AD é um serviço de gerenciamento de acesso e identidade baseado em nuvem. Esse serviço do Azure ajuda seus funcionários a acessar recursos externos, como o Microsoft 365, e gerencia as identidades dos usuários nos bastidores.
+# Planos disponíveis
+Para obter informações detalhadas do plano sobre assinaturas que habilitam os usuários para Microsoft Defender para Office 365, consulte a tabela de comparação de assinatura completa.
 
-- Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
+# Disponibilidade de recursos
+A tabela a seguir lista os principais recursos de Microsoft Defender para Office 365 disponíveis entre os planos. Algumas advertências se aplicam. Veja as notas de rodapé para mais informações. Esta tabela pode ser alterada sem aviso prévio. Para obter a lista mais atualizada e completa dos recursos de Microsoft Defender para Office 365 entre os planos, consulte Microsoft Defender para Office 365 Descrição do serviço recursos.
 
-Licenças office: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
+# Microsoft Defender para Office 365 Plano 1
+
+Termos de licenciamento
+Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o Site de Termos do Produto.
+
+Para locatários Microsoft Defender para Office 365 Plano 1, as licenças devem ser adquiridas para usuários ou caixas de correio abaixo de um ou mais dos seguintes cenários:
+
+Qualquer usuário que acessa uma caixa de correio que se beneficia de proteções de Defender para Office 365.
+Caixas de correio compartilhadas que se beneficiam de proteções de Defender para Office 365.
+Se a proteção de Anexos Seguros para SharePoint, OneDrive for Business ou Teams estiver ativada, todos os usuários que acessarem o SharePoint, OneDrive for Business ou Teams.
+Qualquer usuário que use Microsoft 365 Apps ou Teams quando as proteções de Links Seguros estiverem 
+habilitadas.
+
+# Microsoft Defender para Office 365 Plano 2
+
+Para locatários do Plano 2 Microsoft Defender para Office 365, as licenças devem ser adquiridas para usuários ou caixas de correio abaixo de um ou mais dos seguintes cenários:
+
+Todos os usuários Exchange Online no locatário. Isso ocorre porque os recursos e recursos do Plano 2 protegem todos os usuários do locatário.
+Todas as caixas de correio compartilhadas no locatário.
+If Safe Attachments protection for SharePoint, OneDrive for Business, or Teams is turned on, all users that access SharePoint, OneDrive for Business, or Teams.
+Any user that uses Microsoft 365 Apps or Teams when Safe Links protections are enabled.
