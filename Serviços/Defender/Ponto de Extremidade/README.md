@@ -1,24 +1,71 @@
-# Microsoft-MS-900
-Guia Pratico e Teorico dos produtos Microsoft 365
+# Microsoft Defender para ponto de extremidade
+- Aplica-se a:
+
+- Microsoft Defender para ponto de extremidade
+- Microsoft Defender para Endpoint Plano 1
+- Microsoft Defender para Endpoint Plano 2
+- Gerenciamento de Vulnerabilidades do Microsoft Defender
+- Microsoft 365 Defender
+
+O Microsoft Defender for Endpoint está disponível em dois planos, Defender for Endpoint Plan 1 e Plan 2. Um novo complemento Microsoft Defender Vulnerability Management agora está disponível para o Plano 2.
+
+Para obter mais informações sobre os recursos e funcionalidades incluídos em cada plano, incluindo o novo complemento Defender Vulnerability Management, consulte Comparar os planos do Microsoft Defender para Endpoint .
+
+# O Defender for Endpoint usa a seguinte combinação de tecnologia incorporada ao Windows 10 e o robusto serviço de nuvem da Microsoft:
+
+- Sensores comportamentais de endpoint : incorporados ao Windows 10, esses sensores coletam e processam sinais comportamentais do sistema operacional e enviam esses dados do sensor para sua instância de nuvem privada e isolada do Microsoft Defender for Endpoint.
+
+- Análise de segurança em nuvem : aproveitando big data, aprendizado de dispositivo e ótica exclusiva da Microsoft em todo o ecossistema Windows, produtos de nuvem corporativos (como o Office 365) e ativos online, os sinais comportamentais são traduzidos em insights, detecções e respostas recomendadas para ameaças avançadas .
+
+- Inteligência de ameaças : gerada por caçadores da Microsoft, equipes de segurança e aumentada pela inteligência de ameaças fornecida por parceiros, a inteligência de ameaças permite que o Defender for Endpoint identifique ferramentas, técnicas e procedimentos do invasor e gere alertas quando eles são observados nos dados do sensor coletados.
 
 
-PLanos Empresa basicos MS 365
-Planos resume por licenças ou recursos.
+# Microsoft Defender para ponto de extremidade
 
-Licenças empresa: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/229573637-3f20eb91-2aad-4fc4-a551-82f3f1c1079e.png" width="1000px" align="centter" alt="planos">
+- Gerenciamento de vulnerabilidades do Core Defender
+- Redução da superfície de ataque
+- Proteção de última geração
+- Detecção e resposta de endpoint
+- Investigação e correção automatizadas
+- Especialistas em Ameaças da Microsoft
+
+Saiba mais sobre os aprimoramentos mais recentes no Defender for Endpoint: Novidades no Microsoft Defender for Endpoint .
+O Microsoft Defender para Endpoint demonstrou recursos ópticos e de detecção líderes do setor na avaliação recente do MITRE. Leia: Insights da avaliação baseada em MITRE ATT&CK .
 
 
-- As diferenças entre o Office 365 e o Microsoft 365
-O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, Excel, PowerPoint e Outlook, além de serviços como Microsoft Exchange, SharePoint, Teams e OneDrive. O Microsoft 365 é um serviço baseado em nuvem que inclui os mesmos aplicativos e serviços do Office, além do Windows 10 e Enterprise Mobility + Security.
+# Gerenciamento de vulnerabilidades do Core Defender
 
-- Enterprise Mobility + Security (EMS) é uma plataforma de gerenciamento e segurança de mobilidade que inclui serviços como Azure Active Directory (Azure AD), Microsoft Intune, Azure Information Protection e Microsoft Advanced Threat Analytics. O Azure AD é um serviço de gerenciamento de acesso e identidade baseado em nuvem. Esse serviço do Azure ajuda seus funcionários a acessar recursos externos, como o Microsoft 365, e gerencia as identidades dos usuários nos bastidores.
+Os principais recursos integrados de gerenciamento de vulnerabilidades usam uma abordagem moderna baseada em risco para a descoberta, avaliação, priorização e correção de vulnerabilidades e configurações incorretas de endpoint. Para aprimorar ainda mais sua capacidade de avaliar sua postura de segurança e reduzir riscos, um novo complemento Defender Vulnerability Management para o Plano 2 está disponível.
 
-- Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
+Para obter mais informações sobre os diferentes recursos de gerenciamento de vulnerabilidade disponíveis para você, consulte Comparar as ofertas do Microsoft Defender Vulnerability Management .
 
-Licenças office: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
+
+# Redução da superfície de ataque
+
+O conjunto de recursos de redução da superfície de ataque fornece a primeira linha de defesa na pilha. Ao garantir que as definições de configuração sejam definidas corretamente e que as técnicas de mitigação de exploração sejam aplicadas, os recursos resistem a ataques e exploração. Esse conjunto de recursos também inclui proteção de rede e proteção da Web , que regulam o acesso a endereços IP, domínios e URLs maliciosos.
+
+
+# Proteção de última geração
+
+Para reforçar ainda mais o perímetro de segurança da sua rede, o Microsoft Defender for Endpoint usa proteção de última geração projetada para capturar todos os tipos de ameaças emergentes.
+
+
+# Detecção e resposta de endpoint
+
+Os recursos de detecção e resposta de endpoint são implementados para detectar, investigar e responder a ameaças avançadas que podem ter ultrapassado os dois primeiros pilares de segurança. A busca avançada fornece uma ferramenta de busca de ameaças baseada em consulta que permite encontrar brechas proativamente e criar detecções personalizadas.
+
+
+# Investigação e correção automatizadas
+
+Além de poder responder rapidamente a ataques avançados, o Microsoft Defender for Endpoint oferece recursos automáticos de investigação e correção que ajudam a reduzir o volume de alertas em minutos em escala.
+
+
+# Pontuação segura da Microsoft para dispositivos
+
+O Defender for Endpoint inclui o Microsoft Secure Score para dispositivos para ajudá-lo a avaliar dinamicamente o estado de segurança de sua rede corporativa, identificar sistemas desprotegidos e tomar ações recomendadas para melhorar a segurança geral de sua organização.
+
+
+# Especialistas em Ameaças da Microsoft
+
+O novo serviço gerenciado de busca de ameaças do Microsoft Defender for Endpoint fornece busca proativa, priorização e contexto e insights adicionais que capacitam ainda mais os centros de operações de segurança (SOCs) a identificar e responder a ameaças com rapidez e precisão.
+
