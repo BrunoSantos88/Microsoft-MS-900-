@@ -24,6 +24,13 @@ Um sistema SOAR usa alertas de várias fontes, como um sistema SIEM. Depois, o s
 
 Para fornecer uma abordagem abrangente de segurança, uma organização precisa usar uma solução que adote ou combine a funcionalidade SIEM e SOAR.
 
-
 # Sentinel na Pratica </p>
 Link: https://learn.microsoft.com/pt-br/training/modules/describe-security-capabilities-of-azure-sentinel/3-describe-sentinel-provide-integrated-threat-management
+
+# Entenda os custos do Sentinel
+
+O Microsoft Sentinel fornece análise de segurança inteligente na empresa. Os dados dessa análise são armazenados em um workspace do Azure Monitor Log Analytics. A cobrança é com base no volume de dados ingeridos para análise no Microsoft Sentinel e armazenados no workspace do Log Analytics do Azure Monitor. Há duas maneiras de pagar pelo serviço do Microsoft Sentinel: Reservas de Capacidade e Pagamento Conforme o Uso.
+
+Reservas de Capacidade: nesta modalidade, você paga um valor fixo com base na camada selecionada, permitindo um custo total previsível do Microsoft Sentinel.
+Pagamento Conforme o Uso: nesta modalidade, você paga por gigabyte (GB) do volume de dados ingeridos para análise no Microsoft Sentinel e armazenados no workspace do Log Analytics do Azure Monitor.
+Para obter mais informações sobre preços e uma avaliação gratuita do Microsoft Sentinel em um workspace do Log Analytics do Azure Monitor, confira os preços do Microsoft Sentinel.
