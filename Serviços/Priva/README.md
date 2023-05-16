@@ -142,3 +142,5 @@ Suécia </P>
 Suíça </P>
 Emirados Árabes Unidos </P>
 Isenção de responsabilidade legal </P>
+
+Link: https://learn.microsoft.com/pt-br/privacy/priva/priva-setup
