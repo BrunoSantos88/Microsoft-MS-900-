@@ -25,5 +25,5 @@ Um sistema SOAR usa alertas de várias fontes, como um sistema SIEM. Depois, o s
 Para fornecer uma abordagem abrangente de segurança, uma organização precisa usar uma solução que adote ou combine a funcionalidade SIEM e SOAR.
 
 
-Sentinel na Pratica </p>
+# Sentinel na Pratica </p>
 Link: https://learn.microsoft.com/pt-br/training/modules/describe-security-capabilities-of-azure-sentinel/3-describe-sentinel-provide-integrated-threat-management
