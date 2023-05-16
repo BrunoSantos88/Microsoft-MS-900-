@@ -81,3 +81,64 @@ Priva avalia os dados da sua organização armazenados nos seguintes serviços d
 - O Priva avalia apenas os dados no ambiente do Microsoft 365 da sua organização. Ele não acessa dados pessoais que não fazem parte do ambiente microsoft 365 da organização. Por exemplo, ele não acessa a conta pessoal do Microsoft 365 de um usuário.
 
 Link: https://learn.microsoft.com/pt-br/privacy/priva/priva-overview
+
+# Saiba como se configurar com Microsoft Priva e começar a interpretar insights sobre os dados pessoais da sua organização.
+
+Confirmar assinaturas e licenciamento
+Iniciar uma avaliação gratuita
+Habilitar o log de auditoria do Microsoft 365
+Definir permissões de usuário e atribuir funções
+Quando esperar insights iniciais sobre seus dados
+Começar a atender solicitações de direitos de assunto
+Priva disponibilidade
+
+
+Confirmar assinaturas e licenciamento
+Priva está disponível no portal de conformidade do Microsoft Purview e pode ser comprado por organizações com as licenças descritas nas diretrizes de licenciamento do Microsoft 365 para conformidade com a segurança&.
+
+Priva oferece opções de licenciamento para duas soluções diferentes: Gerenciamento de risco de privacidade Priva e Solicitações de direitos do titular Priva. Eles podem ser comprados individualmente ou juntos. Ao obter licenças para solicitações de direitos de entidade, você pode escolher a camada de licenciamento apropriada para quantas solicitações você precisa lidar. Você pode comprar solicitações adicionais a qualquer momento.
+
+Iniciar uma avaliação gratuita
+Use uma assinatura de avaliação gratuita para explorar todos os recursos e funcionalidades de ambas as soluções Priva. Saiba como se inscrever na avaliação priva.
+
+Habilitar o log de auditoria do Microsoft 365
+Os logs de auditoria do Microsoft 365 são um resumo de todas as atividades em sua organização. As políticas de Gerenciamento de Riscos de Privacidade podem usar essas atividades para gerar insights de política.
+
+Sua organização pode já ter logs de auditoria ativados. Se você precisar começar a usá-los pela primeira vez, consulte Ativar ou desativar a pesquisa de log de auditoria para obter instruções passo a passo para ativar a auditoria. Depois de ativar a auditoria, uma mensagem é exibida que diz que o log de auditoria está sendo preparado e que você pode executar uma pesquisa em algumas horas após a conclusão da preparação. Você só precisa fazer essa ação uma vez. Para obter mais informações sobre como usar o log de auditoria do Microsoft 365, consulte Pesquisar o log de auditoria.
+
+Definir permissões de usuário e atribuir funções
+Priva usa um modelo de permissão RBAC (controle de acesso baseado em função). Somente os usuários atribuídos a uma função podem acessar Priva e as ações permitidas por cada usuário são restritas por tipo de função.
+
+Seu administrador global tem permissões para acessar Priva e atribuir outros usuários a funções. Eles podem entrar e definir permissões de usuário no portal de conformidade do Microsoft Purview for Priva. Para um início rápido, o grupo de funções de Gerenciamento de Privacidade tem permissões para acessar todos os recursos do Priva. Esse grupo pode ser um bom ajuste para organizações em que o mesmo indivíduo pode executar todas as funções. Outras funções de privacidade permitem que você tenha um controle mais granular e atribua usuários a recursos ou funções selecionados.
+
+Para saber mais sobre grupos de funções e como conceder acesso, confira Definir permissões de usuário e atribuir funções no Priva.
+
+# Comece a visualizar seus dados e avaliar riscos
+Quando os insights começam a ser preenchidos
+A página Visão geral do gerenciamento de riscos de privacidade exibe insights dinâmicos sobre como os dados pessoais estão evoluindo em seu ambiente do Microsoft 365 para ajudá-lo a detectar problemas rapidamente, identificar indicadores de risco e tomar medidas para corrigir problemas. Sua página de visão geral começa a ser preenchida com insights iniciais nas primeiras 72 horas. À medida que você continua a usar Priva, a página de visão geral será atualizada para continuar a fornecer informações atuais.
+
+- Sua página de perfil de dados fornece mais visualizações e análises para fornecer uma visão holística dos dados da sua organização por localização geográfica e pelo local do Microsoft 365. Consulte Localizar e visualizar dados pessoais no Priva.
+
+- A página de visão geral mostra insights gerados das políticas padrão que estão em execução quando você inicia o Gerenciamento de Riscos de Privacidade. Essas políticas avaliam os dados da sua organização em relação a três cenários de risco principais: minimização de dados, superexposição de dados e transferências de dados.
+
+- Os insights mostrados são baseados na atividade do usuário detectada a partir do ponto em que sua organização começou a usar Priva. Os dados nas transferências de dados detectados na organização e nos cartões de dados pessoais sobrepostos aparecerão dentro de 48 a 72 horas se as correspondências de política forem detectadas. Os dados pessoais não utilizados cartão mostrarão insights dentro de 72 horas após iniciar o Priva para dados que não foram modificados nos últimos 30 dias.
+
+# Saiba mais sobre como criar, personalizar e trabalhar com políticas de Gerenciamento de Riscos de Privacidade.
+
+# Começar a atender solicitações de direitos de assunto
+Solicitações de direitos do titular Priva automatiza o processo de cumprimento de solicitação de direitos de assunto, fornecendo fácil acesso a dados e fluxos de trabalho personalizáveis que se encaixam em processos comerciais existentes. Você pode encontrar facilmente os dados relevantes, examinar as descobertas e produzir relatórios. Ao longo do caminho, você pode colaborar com segurança com outros especialistas em sua organização para concluir a solicitação de direitos do assunto. Você também pode gerenciar e personalizar seus fluxos de trabalho de negócios com modelos internos. Para saber mais sobre como usar esses recursos, consulte Saiba mais sobre Solicitações de direitos do titular Priva.
+
+# Priva disponibilidade
+Microsoft Priva está disponível para clientes em todo o mundo. Se sua organização provisionou seu locatário em um dos data centers locais listados abaixo para atender aos requisitos de residência de dados, as soluções Priva não estarão disponíveis para você na navegação à esquerda do portal de conformidade do Microsoft Purview:
+
+Noruega
+Polônia
+Catar
+Singapura
+África do Sul
+Coreia do Sul
+Espanha
+Suécia
+Suíça
+Emirados Árabes Unidos
+Isenção de responsabilidade legal
