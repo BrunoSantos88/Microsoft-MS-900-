@@ -131,14 +131,14 @@ Solicitações de direitos do titular Priva automatiza o processo de cumprimento
 # Priva disponibilidade
 Microsoft Priva está disponível para clientes em todo o mundo. Se sua organização provisionou seu locatário em um dos data centers locais listados abaixo para atender aos requisitos de residência de dados, as soluções Priva não estarão disponíveis para você na navegação à esquerda do portal de conformidade do Microsoft Purview:
 
-Noruega
-Polônia
-Catar
-Singapura
-África do Sul
-Coreia do Sul
-Espanha
-Suécia
-Suíça
-Emirados Árabes Unidos
-Isenção de responsabilidade legal
+Noruega </P>
+Polônia </P>
+Catar </P>
+Singapura </P>
+África do Sul  </P>
+Coreia do Sul </P>
+Espanha </P>
+Suécia </P>
+Suíça </P>
+Emirados Árabes Unidos </P>
+Isenção de responsabilidade legal </P>
