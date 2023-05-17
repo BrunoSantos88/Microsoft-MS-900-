@@ -1,3 +1,7 @@
+# O que é o Windows 365?
+
+Você pode estar familiarizado com o sistema operacional Windows, as versões mais atuais sendo Windows 10 e 11. O Windows 365 não é exatamente um sistema operacional e não está instalado no seu computador como o Windows. O Windows 365 é um serviço baseado em nuvem que cria automaticamente um tipo de máquina virtual do Windows, chamado PCs na nuvem, para os seus usuários finais. O Windows 365 transmite com segurança sua área de trabalho, aplicativos, configurações e conteúdo do Windows da nuvem da Microsoft para um PC na nuvem para que você possa acessar uma experiência personalizada de Windows 10 ou Windows 11 de qualquer dispositivo Windows, iOS ou Android. Com um computador na nuvem, o Windows evolui de um sistema operacional (SO) com base no dispositivo para a computação personalizada híbrida.
+
 # Visão geral do Windows como serviço
 
 - Windows 10
