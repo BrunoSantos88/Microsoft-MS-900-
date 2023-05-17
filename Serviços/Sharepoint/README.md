@@ -1,24 +1,23 @@
-# Microsoft-MS-900
-Guia Pratico e Teorico dos produtos Microsoft 365
+# Os três tipos de plataformas de fluxo de trabalho do SharePoint
+A plataforma de fluxo de trabalho do SharePoint 2010 foi encaminhada para Office 365 e o SharePoint Server 2013 e, portanto, todos os fluxos de trabalho criados nessa plataforma continuam funcionando. Essa plataforma é baseada no Windows Workflow Foundation 3.5 (WF3.5).
 
+A plataforma de fluxo de trabalho do SharePoint 2013 é baseada no WF (Windows Workflow Foundation 4) e é substancialmente redesenhada. Talvez o recurso mais proeminente dessa nova plataforma de fluxo de trabalho seja o uso do Microsoft Azure como o host de execução do fluxo de trabalho. O mecanismo de execução do fluxo de trabalho agora vive fora do Office 365 e do SharePoint Server 2013, no Microsoft Azure.
 
-PLanos Empresa basicos MS 365
-Planos resume por licenças ou recursos.
+No SharePoint Online, o Microsoft Flow já está disponível. Este é o mais novo mecanismo de fluxo de trabalho, acesse em: https://flow.microsoft.com . Para saber mais sobre como usar o MS Flow, visite: https://docs.microsoft.com/en-us/flow . Para solucionar problemas do MS Flow, visite, https://docs.microsoft.com/en-us/flow/fix-flow-failures & https://us.flow.microsoft.com/en-us/support/
 
-Licenças empresa: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/compare-microsoft-365-enterprise-plans
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/229573637-3f20eb91-2aad-4fc4-a551-82f3f1c1079e.png" width="1000px" align="centter" alt="planos">
+# Fluxos de trabalho internos
+Um site do SharePoint inclui vários fluxos de trabalho internos que abordam cenários de negócios comuns:
 
+Aprovação     Este fluxo de trabalho encaminha um documento ou item a um grupo de pessoas para aprovação. Por padrão, o fluxo de trabalho Aprovação está associado ao tipo de conteúdo Documento e, portanto, fica automaticamente disponível nas bibliotecas de documentos.
 
-- As diferenças entre o Office 365 e o Microsoft 365
-O Office 365 é um serviço baseado em nuvem que inclui aplicativos como Word, Excel, PowerPoint e Outlook, além de serviços como Microsoft Exchange, SharePoint, Teams e OneDrive. O Microsoft 365 é um serviço baseado em nuvem que inclui os mesmos aplicativos e serviços do Office, além do Windows 10 e Enterprise Mobility + Security.
+Coletar Comentários     Este fluxo de trabalho encaminha um documento ou item a um grupo de pessoas para obter comentários. Os revisores podem fornecer comentários, que serão compilados e enviados para a pessoa que iniciou o fluxo de trabalho. Por padrão, o fluxo de trabalho Coletar Comentários está associado ao tipo de conteúdo Documento e, portanto, fica automaticamente disponível nas bibliotecas de documentos.
 
-- Enterprise Mobility + Security (EMS) é uma plataforma de gerenciamento e segurança de mobilidade que inclui serviços como Azure Active Directory (Azure AD), Microsoft Intune, Azure Information Protection e Microsoft Advanced Threat Analytics. O Azure AD é um serviço de gerenciamento de acesso e identidade baseado em nuvem. Esse serviço do Azure ajuda seus funcionários a acessar recursos externos, como o Microsoft 365, e gerencia as identidades dos usuários nos bastidores.
+Coletar Assinaturas    Este fluxo de trabalho encaminha um documento do Microsoft Office a um grupo de pessoas para coletar suas assinaturas digitais. Esse fluxo de trabalho deve ser iniciado em um programa do Office 2013. Os participantes devem concluir suas tarefas de assinatura adicionando sua assinatura digital ao documento no programa relevante do Office. Por padrão, o fluxo de trabalho Coletar Assinaturas está associado ao tipo de conteúdo Documento e, portanto, fica automaticamente disponível nas bibliotecas de documentos. No entanto, o fluxo de trabalho Coletar Assinaturas aparecerá para um documento somente na biblioteca de documentos, caso esse documento contenha uma ou mais linhas de assinatura do Microsoft Office.
 
-- Aplicativos como Word, Excel, PowerPoint e Outlook estão disponíveis para consumidores e empresas como uma compra única por meio do Office 2021. Para saber mais sobre o Office 2021, consulte Comprar o Microsoft Office 2021 | Microsoft 365
+Aprovação para Publicação     Este fluxo de trabalho é semelhante ao fluxo de trabalho Aprovação no sentido de que automatiza o encaminhamento de conteúdo aos especialistas no assunto e a outros participantes, para revisão e aprovação. O que torna o fluxo de trabalho de aprovação para publicação único é que ele foi projetado especificamente para publicar sites em que a publicação de páginas da Web novas e atualizadas é rigidamente controlada.
 
-Licenças office: </p>
-Link https://www.microsoft.com/pt-br/microsoft-365/get-started-with-office-2021?rtc=1
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230211403-f19d3ede-2ebe-4804-a57b-e789ae409991.png" alt="planos">
+Três estados     Este fluxo de trabalho pode ser usado para gerenciar processos empresariais que requerem que as organizações controlem um alto volume de problemas, vendas potenciais ou tarefas do projeto.
+
+Cada um dos fluxos de trabalho acima pode ser personalizado para sua organização de várias maneiras. Por exemplo, ao adicionar um fluxo de trabalho a uma lista, biblioteca ou tipo de conteúdo para disponibilizá-lo em documentos ou itens, é possível personalizar as listas de tarefas e as listas de histórico onde as informações sobre o fluxo de trabalho estão armazenadas.
+
+Quando um usuário do site iniciar um fluxo de trabalho em um documento ou item, ele poderá ter a opção de personalizá-lo ainda mais, especificando a lista de participantes, uma data de conclusão e instruções sobre a tarefa.
