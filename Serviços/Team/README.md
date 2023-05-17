@@ -1,4 +1,4 @@
- Microsoft Teams promove a colaboração e aprimora o trabalho em equipe
+#  Microsoft Teams promove a colaboração e aprimora o trabalho em equipe
  
  O Microsoft Teams é um aplicativo de colaboração, um hub para trabalho em equipe. É um aplicativo para pessoas e equipes se reunirem, se manterem conectadas e realizarem tarefas no trabalho, em casa, na escola e em qualquer lugar. O Teams ajuda você a reunir uma equipe e se conectar com colegas por meio de mensagens em tempo real e reuniões envolventes e inclusivas. Você pode usar canais para compartilhar arquivos e dados, gerenciar tarefas e colaborar em documentos com pessoas de dentro e de fora da sua organização. Todas estes recursos podem ser utilizados com segurança e conformidade. Personalize o seu Teams adicionando anotações, sites e integrando-se a outros aplicativos e processos que sua equipe usa.
 
