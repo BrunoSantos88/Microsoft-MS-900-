@@ -1,4 +1,4 @@
-# Descrever como os Aplicativos do Microsoft 365 ajudam a aumentar a produtividade
+# Microsoft 365 ajudam a aumentar a produtividade
 
 O Microsoft 365 Apps é um pacote de aplicativos que ajuda você a se manter conectado e realizar tarefas. Crie conteúdo atraente, trabalhe em tempo real e transforme dados em insights usando os aplicativos do Office que você adora com o Microsoft 365 Apps. Os aplicativos do Microsoft 365 estão disponíveis nas assinaturas do Microsoft 365 Apps para Pequenos e Médios Negócios e do Microsoft 365 Apps para Grandes Empresas. Esses aplicativos consistem no pacote do Office de aplicativos como Word, Excel, PowerPoint, OneNote, Outlook, Teams, Publisher e Access (o Publisher e o Access estão disponíveis apenas no PC).
 
