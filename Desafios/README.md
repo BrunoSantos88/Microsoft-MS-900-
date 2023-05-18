@@ -71,7 +71,7 @@ Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-
 
 # Laboratório 3  
 
-# Exercício 10 - Crie um relatório e um painel do Power BI
+# Exercício 1 - Crie um relatório e um painel do Power BI
 Holly Dickson está chegando ao fim de sua excursão ao ambiente Microsoft Power Platform. Ela criou dois Power Apps e um Power Automate Flow, todos baseados no sistema de tíquetes do Service Desk que ela criou anteriormente no SharePoint.
 
 Ela agora também está interessada em criar e compartilhar um relatório e um painel do Power BI com base no sistema de tickets do SharePoint. O consultor de TI da Adatum sugeriu que ela usasse o Power BI Desktop, um aplicativo gratuito que ela pode instalar localmente e que permitirá que ela se conecte, transforme e visualize os dados do sistema de tíquetes. Ela pode usar o Power BI Desktop para criar relatórios e, em seguida, usar o serviço Power BI para compartilhar seus relatórios com outras pessoas.
@@ -80,19 +80,19 @@ Em sua função como Holly Dickson, você usará este exercício para criar algu
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex10_Power_BI_report.md
 
-# Exercício 1 - Revise os principais recursos do Exchange Online
+# Exercício 2 - Revise os principais recursos do Exchange Online
 Holly Dickson é a administradora corporativa de Adatum. Ela implantou recentemente o Microsoft 365 em um ambiente de laboratório virtualizado. Agora que ela tem uma conta de locatário configurada e foi atribuída à função de administrador global, ela foi solicitada a revisar as principais funções administrativas no Exchange Online, SharePoint Online e Teams. Essa tarefa permitirá que ela se familiarize com sua funcionalidade e possa oferecer orientação à sua equipe de TI sobre como esses serviços podem ser usados ​​em toda a Adatum.
 
 Em relação ao Microsoft Exchange, o CTO da Adatum solicitou que Holly revisasse algumas das funções administrativas básicas do Exchange Online relacionadas ao fluxo de emails e ao gerenciamento de destinatários. Como a função de administrador global inclui a função de administrador do Exchange, Holly pode executar todas as tarefas relacionadas ao Exchange.
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex1_Exchange_Online.md
 
-# Exercício 2 - Revise os principais recursos do SharePoint Online
+# Exercício 3 - Revise os principais recursos do SharePoint Online
 O CTO da Adatum ouviu falar muito sobre o Microsoft SharePoint Online e está interessado em implementá-lo na Adatum. No entanto, a segurança é a maior preocupação do CTO, que está preocupado se novos sites criados dentro da empresa podem ser mantidos seguros. O CTO encarregou Holly de revisar algumas das funções administrativas básicas do SharePoint Online para determinar se ele pode atender aos requisitos de segurança.
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex2_SharePoint_Online.md
 
-# Exercício 3 - Criar um sistema de tíquetes no SharePoint
+# Exercício 4 - Criar um sistema de tíquetes no SharePoint
 À medida que a Adatum inicia sua transição para o Microsoft 365 como sua solução de nuvem hospedada, eles desejam usar essa oportunidade para reduzir a quantidade de produtos de software de terceiros que usam atualmente. Isso os ajudará a atingir seu objetivo de reduzir as despesas gerais de TI. O CTO pediu a Holly Dickson, administradora corporativa da Adatum, para projetar uma solução que usa os serviços do Microsoft 365 para substituir o sistema de solicitação de serviços de TI de terceiros que a Adatum usa atualmente.
 
 Como Holly está ocupada executando o projeto piloto do Microsoft 365 junto com suas outras responsabilidades administrativas, o CTO a autorizou a contratar um consultor de TI para projetar o novo sistema de tíquetes de solicitação de serviço. No entanto, ele não quer que o consultor tenha acesso a todo o sistema Adatum, então ele quer que Holly implemente “boas práticas de segurança” apenas fornecendo ao consultor acesso ao ambiente de projeto piloto de TI da Adatum.
@@ -104,38 +104,38 @@ No exercício de laboratório anterior, você criou um site de equipe do SharePo
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex3_Ticketing_System.md
 
-# Exercício 4 - Revise os principais recursos do Microsoft Teams
+# Exercício 5 - Revise os principais recursos do Microsoft Teams
 Neste exercício, você aprenderá como gerenciar e configurar equipes por meio do centro de administração do Microsoft Teams.
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex4_Microsoft_Teams.md
 
-# Exercício 5 - Revise o Power Platform Admin Center
+# Exercício 6 - Revise o Power Platform Admin Center
 À medida que a Adatum inicia sua transição para o Microsoft 365 como sua solução de nuvem hospedada, eles desejam aproveitar esta oportunidade para examinar a funcionalidade da Power Platform da Microsoft. Em sua função como Holly Dickson, administradora corporativa da Adatum, você foi solicitado a expandir seu projeto piloto do Microsoft 365 para incluir a plataforma de energia da Microsoft. Portanto, sua primeira tarefa para esse objetivo é se familiarizar com o centro de administração da Power Platform, que fornece um portal unificado para administradores gerenciarem ambientes e configurações para Power Apps, Power Automate e Power BI.
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex5_Power_Platform_admin_center.md
 
-# Exercício 6 - Criar um Power App a partir de uma fonte de dados do SharePoint
+# Exercício 7 - Criar um Power App a partir de uma fonte de dados do SharePoint
 Em um exercício anterior neste laboratório, Holly criou um sistema de tíquetes de solicitação de serviço para gerenciar as solicitações do service desk. O sistema de tíquetes consistia em um site de equipe do SharePoint intitulado Serviços de TI e uma lista do SharePoint dentro desse site intitulada Solicitações do Service Desk . Holly preencheu esta lista com os tíquetes de solicitação de serviço do antigo sistema de tíquetes da Adatum.
 
 Em vez de fazer com que a equipe de suporte da Adatum use o SharePoint para inserir e gerenciar novos tíquetes de serviço, Holly prevê o uso de um Power App para executar essa função. Portanto, neste exercício, você criará um Power App que utiliza a lista de solicitações do Service Desk do SharePoint como fonte de dados para o aplicativo. Holly publicará e compartilhará o aplicativo com o consultor de TI para fins de teste como parte do projeto piloto da Adatum.
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex6_Power_App_from_SPdata.md
 
-#  Exercício 7 - Criar um Power App do zero
+#  Exercício 8 - Criar um Power App do zero
 No exercício anterior, você usou o Power Apps para criar automaticamente um aplicativo de tela da fonte de dados do SharePoint. Neste exercício, você criará um aplicativo semelhante do zero, usando a mesma lista do SharePoint como fonte de dados. O objetivo deste exercício é que você aprenda a criar um aplicativo do zero.
 
 No exercício de laboratório anterior, quando o Power Apps criou o aplicativo para o sistema Service Desk Ticketing, ele criou automaticamente as seguintes telas usadas no aplicativo – a tela de navegação, a tela de detalhes e a tela de edição. Ao criar um aplicativo de tela do zero, você criará manualmente cada uma dessas telas:
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex7_Power_App_from_scratch.md
 
-# Exercício 8 - Criar um fluxo usando o Power Automate
+# Exercício 9 - Criar um fluxo usando o Power Automate
 Em sua função como Holly Dickson, administradora corporativa da Adatum, você criou um novo sistema de tíquetes de service desk no SharePoint que consiste em um site de equipe intitulado Serviços de TI e uma lista do SharePoint intitulada Solicitações de Service Desk . Em seu esforço para implementar a Power Platform da Microsoft na Adatum, você criou um Power App que permite aos usuários inserir tíquetes de serviço usando o aplicativo em vez do SharePoint e também adicionou o aplicativo ao Microsoft Teams para que os usuários possam acessar o Power App por meio do Teams .
 
 Como parte de seu projeto piloto da Power Platform, você agora deseja investigar como pode usar o Power Automate para melhorar seu novo sistema de emissão de tíquetes. Depois de revisar o antigo sistema de tickets da Adatum, você percebeu que a falta de comunicação em tempo real entre gerentes e clientes (seus usuários internos) era um fator chave para sua ineficácia. Para resolver esse problema, você decidiu criar e compartilhar um fluxo automatizado no Power Automate que envia automaticamente um email ao Administrador do MOD sempre que uma solicitação de serviço é criada ou modificada.
 
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_04_Lab3_Ex8_Power_Automate_flow.md
 
-#  Exercício 9 - Criar uma política de DLP usando o Power Automate
+#  Exercício 10 - Criar uma política de DLP usando o Power Automate
 Por motivos de segurança, os administradores geralmente desejam garantir que determinados dados sejam mantidos protegidos. O Power Platform permite que você crie políticas de prevenção contra perda de dados que definem quais conectores podem compartilhar dados de negócios específicos. Por exemplo, você pode não querer que os dados corporativos armazenados no SharePoint sejam publicados automaticamente em seu feed do Twitter por um fluxo do Power Automate.
 
 A Power Platform usa grupos de dados como uma maneira simples de categorizar conectores em uma política DLP. Os três grupos de dados disponíveis são o grupo de dados comerciais, o grupo de dados não comerciais e o grupo de dados bloqueados.
