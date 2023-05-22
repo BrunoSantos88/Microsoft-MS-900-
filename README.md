@@ -9,7 +9,7 @@
 # Habilidades medidas
 A versão em inglês deste exame foi atualizada em 18 de abril de 2023. Examine o guia de estudo vinculado na caixa “Dica” anterior para obter detalhes sobre as habilidades avaliadas e as alterações mais recentes.
 - Descrever os conceitos da nuvem (5–10%)
-- Descrever aplicativos e serviços do Microsoft 365 (45–50%)
+- Descrever aplicativos e serviços do Microsoft 365 (45–50%) --- (estudar)
 - Descrever a segurança, a conformidade, a privacidade e a confiança no Microsoft 365 (25–30%)
 - Descrever os preços, o licenciamento e o suporte do Microsoft 365 (10–15%)
 
