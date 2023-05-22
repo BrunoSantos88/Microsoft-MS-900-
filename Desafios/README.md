@@ -3,7 +3,7 @@ Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-
 
 # Laboratório 1  
 
-# Exercício 1 - Inicializar seu locatário do Microsoft 365]
+# Exercício 1 - Inicializar seu locatário do Microsoft 365
 
 Adatum Corporation é uma subsidiária da Contoso Electronics. A Adatum executa seus aplicativos legados (como o Microsoft Exchange Server 2019) em uma implantação local. No entanto, recentemente se inscreveu no Microsoft 365, criando assim uma implantação híbrida na qual deve sincronizar suas implantações locais e na nuvem.
 
