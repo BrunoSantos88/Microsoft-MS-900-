@@ -1,5 +1,4 @@
 # Desafio Lab's Github </p>
-________________________________________________________________________________________________________________________________
 
 MS-100 </p>
 Link: https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/tree/master/Instructions/Labs </p>
