@@ -6,7 +6,7 @@ As organizações atuais precisam de um novo modelo de segurança que se adapte 
 Capacite seus usuários para trabalharem com mais segurança em praticamente qualquer lugar, a qualquer hora e em qualquer dispositivo.
 
 
- #Migração para a nuvem
+# Migração para a nuvem
 Possibilite a transformação digital com segurança inteligente no ambiente complexo atual.
 
  # Redução de riscos
