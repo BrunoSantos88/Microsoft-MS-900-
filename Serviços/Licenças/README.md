@@ -47,3 +47,7 @@ Entre em contato com seu Parceiro da Microsoft ou com o Gerenciador de Contas da
 
 LINk: https://learn.microsoft.com/pt-br/training/modules/identify-licensing-options-available-microsoft-365/4-license-management-options
 LINK:https://learn.microsoft.com/pt-br/training/modules/identify-licensing-options-available-microsoft-365/4-license-management-options
+
+
+Licenla Sales: </p>
+Link: https://learn.microsoft.com/pt-br/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options
