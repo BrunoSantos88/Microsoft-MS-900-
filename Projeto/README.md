@@ -10,3 +10,5 @@ tenant de testes com pelo menos 5 contas de usuários fictícios, atribua licen�
 as contas criadas, crie uma equipe do Teams para algum departamento
 administrativo (Contabilidade, Financeiro ou RH), e configure o site de equipe no
 SharePoint Online para talsetor.
+
+Link:https://docs.google.com/presentation/d/1Dz0eOBGc2QKOLs18vfdcyx7mhapoodR6rzxmxr23rsY/edit?usp=drive_link
