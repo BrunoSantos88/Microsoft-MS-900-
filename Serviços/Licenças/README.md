@@ -62,3 +62,14 @@ Os produtos e serviços do Microsoft 365 estão disponíveis como licenças de a
 - USLs complementares são para clientes de software local que desejam adicionar produtos e serviços de nuvem do Microsoft 365.
 - As USLs da SA são para clientes locais do Software Assurance que desejam fazer a transição para a nuvem.
 - USLs Step Up são para clientes que desejam atualizar o nível de seu serviço.
+
+
+# O Microsoft 365 é licenciado
+
+Este item testa o conhecimento do candidato sobre os tipos de licenças básicas disponíveis no Microsoft 365.
+
+O Microsoft 365 é licenciado por meio de licenças baseadas em assinatura, chamadas de licenças de assinatura de usuário (USLs). A Microsoft oferece quatro tipos deles, abrangendo diferentes situações de licenciamento existentes. Para empresas que já possuem algumas licenças locais e desejam estender sua presença para o Microsoft 365, o tipo de licença apropriado é o USL de complemento. 
+
+- Uma USL completa destina-se a novos clientes sem licenças da Microsoft. A From SA USL é para clientes que são cobertos pelo Software Assurance e desejam fazer a transição para a nuvem. 
+
+- Um Step Up USL destina-se a atualizar os níveis de serviço existentes.
