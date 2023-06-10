@@ -11,8 +11,8 @@ Microsoft Bookings simplifica o processo de agendamento e gerenciamento de compr
 Planos disponíveis
 Para obter informações detalhadas do plano sobre assinaturas que habilitam os usuários para Microsoft Bookings, confira a tabela de comparação de assinatura completa.
 
-Licenças para uso </p>
+Licenças para uso -> </p>
 Link PDF: https://drive.google.com/file/d/1sjY_ddaCcp8j2fM6U2pwYfiAf2gX6wpQ/view?usp=sharing
 
-Mais conteudo </P>
+Mais conteudo -> </P>
 Link: https://learn.microsoft.com/pt-br/microsoft-365/bookings/bookings-overview?view=o365-worldwide
