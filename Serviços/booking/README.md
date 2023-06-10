@@ -13,3 +13,6 @@ Para obter informações detalhadas do plano sobre assinaturas que habilitam os 
 
 Licenças para uso </p>
 Link PDF: https://drive.google.com/file/d/1sjY_ddaCcp8j2fM6U2pwYfiAf2gX6wpQ/view?usp=sharing
+
+Mais conteudo </P>
+Link: https://learn.microsoft.com/pt-br/microsoft-365/bookings/bookings-overview?view=o365-worldwide
