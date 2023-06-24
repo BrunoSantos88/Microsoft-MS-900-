@@ -5,7 +5,8 @@ Link: https://learn.microsoft.com/pt-br/certifications/exams/ms-900/practice/ass
 
 - % entre 76 -- 90 % Simulado da Microsoft
 - Ultima tentativa 620 pontos Prova official
-- 
+- Pass com 860  pontos dia 23/06
+ 
 Examposter </p>
 Simulado: https://examposter.com/microsoft/ms-900-microsoft-365-fundamentals/ms-900-part-01/
 
